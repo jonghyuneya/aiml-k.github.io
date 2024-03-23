@@ -37,7 +37,7 @@ education:
       institution: Korea University
       year: 2009
     - course: B.A. in Sociology
-      institution: Massachusetts Institute of Technology
+      institution: Yonsei University
       year: 2008
 
 # Social/Academic Networking
@@ -54,6 +54,9 @@ social:
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-7941-2395
   - icon: github
     icon_pack: fab
     link: https://github.com/cth127

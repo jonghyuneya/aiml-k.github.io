@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Jaeheun Jung
+title: Jeung-un Ha
 
 # Full name (for SEO)
-first_name: Jaeheun
-last_name: Jung
+first_name: Jeung-un
+last_name: Ha
 
 # Username (this should match the folder name)
 authors:
-  - jaeheunjung
+  - jeungunha
 
 # Is this the primary user of the site?
 superuser: false
@@ -25,8 +25,8 @@ organizations:
 bio: I have had my own named patent.
 
 interests:
-  - Algebraic Geometry
-  - Neural Network Optimization
+  - Physics-Informed Neural Network
+  - ?
 
 education:
   courses:
@@ -59,7 +59,7 @@ social:
     link: https://orcid.org/0000-0002-7941-2395
   - icon: github
     icon_pack: fab
-    link: https://github.com/invigorator96
+    link: https://github.com/prism4304
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -75,4 +75,4 @@ user_groups:
   - Ph.D. Students
 ---
 
-Jaeheun Jung is a Ph.D. candidate.
+Jeung-un Ha is a Ph.D. candidate.

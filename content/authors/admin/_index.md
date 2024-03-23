@@ -53,8 +53,7 @@ social:
     link: https://scholar.google.com/citations?user=I-XhaYgAAAAJ
   - icon: orcid
     icon_pack: ai
-    url: https://orcid.org/0000-0002-7941-2395
-    label: 'ORCID ID: 0000-0002-7941-2395'
+    link: https://orcid.org/0000-0002-7941-2395
   - icon: github
     icon_pack: fab
     link: https://github.com/d-h-lee
@@ -74,7 +73,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Principal Investigators
-  - Researchers
+#  - Researchers
 ---
 
 
