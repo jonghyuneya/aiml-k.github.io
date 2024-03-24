@@ -13,7 +13,7 @@ sections:
       email: holy@korea.ac.kr
       phone: +82 2 3290 3070
       address:
-        street: 640 Asan Science Building, 140 Anam-ro, Seungbuk-gu
+        street: Room 640, Asan Science Building, 140 Anam-ro, Seungbuk-gu
         city: Seoul
         # region: CA
         postcode: '02841'
@@ -22,7 +22,7 @@ sections:
       coordinates:
         latitude: '37.58512'
         longitude: '127.02528'
-      directions: Enter Asan Science Building, take an elevator to 6th floor. If approaching via subway, you should start walking uphill from Exit 4 in Anam station (Line 6).
+      directions: If approaching via subway, you should start walking uphill from Exit 4 in Anam station (Line 6). # Enter Asan Science Building, take an elevator to 6th floor.
       office_hours:
         - on demand
       # appointment_url: 'https://calendly.com'
