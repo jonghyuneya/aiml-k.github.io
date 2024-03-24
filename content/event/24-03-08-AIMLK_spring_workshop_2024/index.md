@@ -54,7 +54,6 @@ slides:
 projects:
 ---
 
-Shortcode:
 
 {{< figure src="poster.jpg" caption="Workshop poster by Nayoung Lee" numbered="false" >}}
 
