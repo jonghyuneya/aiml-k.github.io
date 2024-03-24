@@ -1,14 +1,17 @@
 ---
-title: Online Learning with&nbsp;Regularized Knowledge Gradients
+title: Online Learning with Regularized Knowledge Gradients
 authors:
-- Donghun Lee
+- admin
 - Warren B. Powell
-date: '2022-01-01'
-publishDate: '2024-03-24T13:56:30.277137Z'
+date: '2022-05-18'
+publishDate: '2022-05-22T13:56:30.277137Z'
 publication_types:
 - paper-conference
 publication: '*Advances in Knowledge Discovery and Data Mining: 26th Pacific-Asia
   Conference, PAKDD 2022, Chengdu, China, May 16–19, 2022, Proceedings, Part II*'
+publication_short: In *PAKDD 2022*
+
+
 doi: 10.1007/978-3-031-05936-0_26
 abstract: We introduce a simple and effective regularization of knowledge gradient
   (KG) and use it to present the first sublinear regret bound result for KG-based
@@ -23,7 +26,14 @@ tags:
 - Knowledge gradient
 - Online learning
 - Regret analysis
+
+image:
+  caption: 'Sensitivity analysis of ORKG shows graceful exploitation-exploration tradeoff'
+  focal_point: ''
+  preview_only: false
+
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-031-05936-0_26
+url_pdf: 'lee_powell_ORKG_2022.pdf'
 ---
