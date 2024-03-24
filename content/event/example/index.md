@@ -54,6 +54,7 @@ slides:
 projects:
 ---
 
+{{< figure src="poster.jpg" caption="Workshop poster by Nayoung Lee" numbered="true" >}}
 
 <!-- 
 Slides can be added in a few ways:
