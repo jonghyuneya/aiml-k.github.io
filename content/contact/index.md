@@ -10,10 +10,10 @@ sections:
       title: Contact
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: holy @at@ korea.ac.kr
+      email: holy@korea.ac.kr
       phone: +82 2 3290 3070
       address:
-        street: 640 Asan Science Building
+        street: 640 Asan Science Building, 140 Anam-ro, Seungbuk-gu
         city: Seoul
         # region: CA
         postcode: '02841'
