@@ -15,7 +15,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
   - name: Korea University
-    url: ''
+    url: 'http://www.korea.edu'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Bridging artificial intelligence and mathematics, in both directions.
@@ -44,21 +44,24 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:holy-at-korea.ac.kr'
+    link: 'mailto:holy@at@korea.ac.kr'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=I-XhaYgAAAAJ
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-7941-2395
   - icon: github
     icon_pack: fab
     link: https://github.com/d-h-lee
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: https://docs.google.com/document/d/1QZI5EFBZ3Xsw4TMAHOI6sB7T_JsBC7y4UUIAGhU-sXo/edit?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
