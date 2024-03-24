@@ -1,8 +1,11 @@
 ---
-title: AIML@K Team Ranks National Top 2 in AI Grand Challenge Open Track
+title: AIML@K Ranks National Top 2 in AI Grand Challenge Open Track Competition
 date: 2023-08-01
 image:
   focal_point: 'top'
+authors:
+  - admin
+  - taehuncha
 ---
 
 CONGRATULATIONS to all participants of team 'aimlk', for valiantly competing with AI tech companies and computer science research labs from all over South Korea and winning the second place at the 6th AI Grand Challenge, Open Track! 
