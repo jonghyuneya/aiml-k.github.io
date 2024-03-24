@@ -13,7 +13,7 @@ address:
   country: South Korea
 
 summary: 'The 4th AIML@K Workshop takes place!'
-abstract: 'AIML@K Workshop is a biannual workshop with the aim of fostering graduate student research presentation and discussion. Undergraduates, postdoctoral researchers and faculty members are also welcome to the workshop. In this particular event, AIML@K and Seismology Lab showcase interdisciplinary AI research in College of Science, Korea University.'
+abstract: 'AIML@K Workshop is a biannual workshop with the aim of fostering graduate student research presentation and discussion. Undergraduates, postdoctoral researchers and faculty members are also welcome to the workshop. In this particular event, there is a special session where AIML@K and [Seismology Lab](https://seismology.korea.ac.kr/) showcase interdisciplinary AI research took place in College of Science, Korea University.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -53,6 +53,12 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
+Direct:
+
+![Workshop poster by Nayoung Lee](poster.jpg "Workshop poster by Nayoung Lee")
+
+Shortcode:
 
 {{< figure src="poster.jpg" caption="Workshop poster by Nayoung Lee" numbered="true" >}}
 
