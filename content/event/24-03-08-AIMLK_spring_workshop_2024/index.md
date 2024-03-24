@@ -1,7 +1,7 @@
 ---
-title: AIMLK Spring 2024 Workshop
+title: AIML@K Spring 2024 Workshop
 
-event: AIMLK Spring 2024 🌱 Workshop
+event: AIML@K Spring 2024 🌱 Workshop
 event_url: https://sites.google.com/view/aimlk-workshops/2024-spring
 
 location: Yoo-Im-Soon Hall, Mediheal Earth and Environment Science Building
@@ -54,13 +54,9 @@ slides:
 projects:
 ---
 
-Direct:
-
-![Workshop poster by Nayoung Lee](poster.jpg "Workshop poster by Nayoung Lee")
-
 Shortcode:
 
-{{< figure src="poster.jpg" caption="Workshop poster by Nayoung Lee" numbered="true" >}}
+{{< figure src="poster.jpg" caption="Workshop poster by Nayoung Lee" numbered="false" >}}
 
 <!-- 
 Slides can be added in a few ways:
