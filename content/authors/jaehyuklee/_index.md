@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yanggee Kim
+title: Jaehyuk Lee
 
 # Full Name (for SEO)
-first_name: Yanggee
-last_name: Kim
+first_name: Jaehyuk
+last_name: Lee
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,12 +18,11 @@ organizations:
     url: 'http://www.korea.edu'
 
 # Short bio (displayed in user profile at end of posts)
-bio: The very first Kim of 640.
+bio: The very first Lee of MDS program
 
 interests:
   - Computer vision
-  - Self-attention
-  - Statistical learning theory
+  - RL in recommender system
 
 education:
   courses:
@@ -44,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:rkksfkfk123@korea.ac.kr'
+    link: 'mailto:jaehyeokbear@korea.ac.kr '
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -56,7 +55,7 @@ social:
   #   link: https://orcid.org/0000-0002-7941-2395
   - icon: github
     icon_pack: fab
-    link: https://github.com/wheresmadog
+    link: https://github.com/2jaehyuk
   # - icon: cv
   #   icon_pack: ai
   #   link: https://docs.google.com/document/d/1QZI5EFBZ3Xsw4TMAHOI6sB7T_JsBC7y4UUIAGhU-sXo/edit?usp=sharing
