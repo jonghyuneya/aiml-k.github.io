@@ -57,9 +57,14 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/okaybody10
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
   - icon: cv
     icon_pack: ai
-    link: CV__Jae_Hyuk_Sung.pdf
+    link: files/cv/CV__Jae_Hyuk_Sung.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -80,5 +85,4 @@ My objective is to use the computer science knowledge (especially basic machine 
 I am interested in researching mathematical problem-solving models and wish to passionately carry out my desired research based on the latest trends identified through my undergraduate studies and paper reviews.
 
 <!-- 그 외의 것/trivia -->
-More about me can be found in my [curriculum vitae](CV__Jae_Hyuk_Sung.pdf). 
 I learned a lot and had a great time being an undergraduate researcher in AIML@K.
