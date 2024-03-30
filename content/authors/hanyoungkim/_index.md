@@ -22,7 +22,7 @@ organizations:
     url: 'http://www.korea.edu'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm one of the first resident of ASB 640!
+bio: I'm the last M.S. in Financial Engineering graduate managed from Econ department!
 
 interests:
   - Financial Engineering
