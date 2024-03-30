@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Kyung Hee Roh
+title: Yejin Lee
 
 # Full Name (for SEO)
-first_name: Kyung Hee
-last_name: Roh
+first_name: Yejin
+last_name: Lee
 
 # Is this the primary user of the site?
 superuser: false
@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:@rkh97@korea.ac.kr'
+    link: 'mailto:@ '
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -55,7 +55,7 @@ social:
   #   link: https://orcid.org/0009-0002-7449-5336
   - icon: github
     icon_pack: fab
-    link: https://github.com/kyungheee
+    link: https://github.com/Yeazzing
   # - icon: cv
   #   icon_pack: ai
   #   link: https://docs.google.com/document/d/1QZI5EFBZ3Xsw4TMAHOI6sB7T_JsBC7y4UUIAGhU-sXo/edit?usp=sharing
