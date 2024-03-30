@@ -54,9 +54,9 @@ social:
   # - icon: orcid
   #   icon_pack: ai
   #   link: https://orcid.org/0000-0002-7941-2395
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/d-h-lee
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/wheresmadog
   # - icon: cv
   #   icon_pack: ai
   #   link: https://docs.google.com/document/d/1QZI5EFBZ3Xsw4TMAHOI6sB7T_JsBC7y4UUIAGhU-sXo/edit?usp=sharing
