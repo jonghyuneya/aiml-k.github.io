@@ -10,7 +10,7 @@ last_name: Sung
 superuser: false
 
 # Role/position
-role: M.S. in Mathematics
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
