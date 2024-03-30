@@ -84,5 +84,6 @@ I have been leading AIML@K since 2021, with the goal of educating future leaders
 My personal research themes include learning to make wise decisions under uncertainty, efficiency of machine learning algorithms, explainable and verifiable artificial intelligence. 
 
 <!-- 그 외의 것/trivia -->
-I have been putting efforts into public outreaches regarding significant events and impactful findings in my field of research and interest, such as "Dissecting AlphaGo" (알파고 해부하기) series. 
-
+My Ph.D. started in 2009 and ended in 2019: in the midst of my Ph.D. decade I worked as a software engineer in Samsung Electronics. 
+Meanwhile, I have been putting efforts into public outreaches regarding significant events and impactful findings in my field of research and interest, such as "Dissecting AlphaGo" (알파고 해부하기) series. 
+Additional details can be found in my [curriculum vitae](https://docs.google.com/document/d/1QZI5EFBZ3Xsw4TMAHOI6sB7T_JsBC7y4UUIAGhU-sXo/edit?usp=sharing).
