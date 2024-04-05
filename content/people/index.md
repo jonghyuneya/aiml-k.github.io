@@ -1,13 +1,13 @@
 ---
 title: People
-date: 2022-10-24
+date: 2024-04-05
 
 type: landing
 
 sections:
   - block: people
     content:
-      title: Meet the Team
+      title: Meet the AIMLers
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
@@ -15,6 +15,7 @@ sections:
 #          - Researchers
           - Ph.D. Students
           - M.S. Students
+          - Undergraduate Students
           - Administrators
           - Visitors
           - Alumni
