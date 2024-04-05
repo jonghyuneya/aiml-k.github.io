@@ -25,7 +25,7 @@ The second stage of the 6th AI Grand Challenge '정책 지원 AI', took a sharp 
 Once again hosted by Ministry of Science and ICT (과학기술정보통신부) of South Korea, this competition invited the first stage winners and top three teams from the Open Track competition. 
 To our surprise, our team 'aimlk' ranked seventh place, once again demonstrating the capacity of mathematics graduate students in developing actual AI applications. 
 
-{{< figure src="ranking.png" title="AIML@K ranks the seventh!" >}}
+{{< figure src="ranking.png" caption="AIML@K ranks the seventh once more!" >}}
 
 For more details, please see the following links:
 
