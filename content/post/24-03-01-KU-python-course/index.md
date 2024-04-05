@@ -1,14 +1,17 @@
 ---
-title: AIML@K students serve as TAs for Korea University's official university-wide Python course
+title: Four AIML@K students serve as TAs for Korea University's first university-wide Python course
 date: 2024-03-04
 image:
   focal_point: 'top'
 authors:
-  - admin
+  - changhaejung
+  - hanyoungkim
+  - nayounglee
+  - suhyunbae
 ---
 
-We are delighted to provide so many talented teaching assistants for Korea University's university-wide Python course. 
-The course, titled "Software Programming Basics" (SW프로그래밍의 기초), is one of the mandatory courses for all first-years in Korea University.  
+We are delighted to provide so many talented teaching assistants, selected via university-wide open recruiting, for Korea University's first university-wide Python course. 
+The course, titled "Software Programming Basics" (SW프로그래밍의 기초), is one of the mandatory courses for all first-years in Korea University. 
 
 <!--more-->
 
