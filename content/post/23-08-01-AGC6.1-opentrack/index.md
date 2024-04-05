@@ -4,8 +4,16 @@ date: 2023-08-01
 image:
   focal_point: 'top'
 authors:
-  - admin
+  - jaeheunjung
   - taehuncha
+  - jeungunha
+  - hanyoungkim
+  - changhaejung
+  - yejinjeong
+  - jaehyuksung
+  - sangayoon
+  - suhyunbae
+  - admin
 ---
 
 CONGRATULATIONS to all participants of team 'aimlk', for valiantly competing with AI tech companies and computer science research labs from all over South Korea and winning the second place at the 6th AI Grand Challenge, Open Track! 
@@ -14,7 +22,7 @@ CONGRATULATIONS to all participants of team 'aimlk', for valiantly competing wit
 
 The 6th AI Grand Challenge is titled as '정책 지원 AI', which involves closed-domain multi-hop question-answering tasks with reasoning, predominantly in Korean natural language queries. 
 Hosted by Ministry of Science and ICT (과학기술정보통신부) of South Korea, this competition, named 6th AI Grand Challenge Open Track, invited anyone from private companies, national labs, universities to participate and showcase their ability to form ideas and implement the actual running codes to encourage fair and widespread national participation.
-We are delighted to announce that our team 'aimlk' ranked 2nd place, validating the hypothesis that the mathematicians can do AI not only theoretically but also practically.
+We are delighted to announce that our team 'aimlk' ranked 2nd place, validating the hypothesis that the mathematicians can do AI not only theoretically but also practically. 
 
 For more details, please see the following links:
 
