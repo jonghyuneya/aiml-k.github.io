@@ -2,7 +2,7 @@
 title: 'Aspect-based Dense Passage Retrieval'
 authors:
 - yanggeekim
-- hangyoungkim
+- hanyoungkim
 - admin
 date: '2023-12'
 publishDate: '2023-12-29T00:00:51.489481Z'
@@ -15,7 +15,7 @@ abstract: ''
 
 links:
 - name: URL
-  url: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488003
+  url: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705178
 # url_pdf: 'https://aclanthology.org/2024.eacl-long.31.pdf'
 
 tags: ['NLP']
