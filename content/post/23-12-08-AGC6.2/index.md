@@ -10,7 +10,7 @@ authors:
   - changhaejung
   - jaeheunjung
   - suhyunbae
-  - jeungunha
+  - jeongunha
   - nayounglee
   - yanggeekim
   - sangayoon
