@@ -13,7 +13,7 @@ authors:
   - admin
 ---
 
-CONGRATULATIONS to all participants of team 'AIL-K', for ranking national top sixth in 5th AI Grand Challenge Stage 1 Competition!  It was our first participation to AI Grand Challenge, and we were 
+CONGRATULATIONS to all participants of team 'AIL-K', for ranking national top sixth in 5th AI Grand Challenge Stage 1 Competition!  It was our first participation to AI Grand Challenge -- a series of largest government-hosted AI competition since 2017. 
 
 <!--more-->
 
