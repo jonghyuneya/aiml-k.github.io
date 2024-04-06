@@ -20,7 +20,7 @@ links:
 tags: ['NLP']
 
 image:
-  caption: 'Taehun Cha with his poster in KCC 2023 (Jeju, South Korea)'
+  caption: 'Taehun with his poster in KCC 2023 (Jeju, South Korea)'
   focal_point: ''
   preview_only: false
 
