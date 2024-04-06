@@ -11,7 +11,15 @@ publication_types:
 publication: '*Proceedings of 2023 Korea Software Congress*'
 publication_short: In *KSC 2023*
 
-abstract: ''
+abstract: 'In information retrieval, traditional models like TF-IDF and BM25 have been used for search engine
+queries. However, with the rise of deep learning in natural language processing, DPR-BERT has
+significantly improved accuracy in this field. However, DPR-BERT has limitations related to precise
+retrieval concerning perspectives. In this paper, to address these limitations, we propose a new
+architecture that extracts perspective and incorporates them into the retrieval process. In this
+process, experiments were conducted by modifying the method of obtaining similarity and the
+training objective function defined by the original DPR to align with our goals. Our experimental
+results confirm that incorporating perspective during retrieval significantly improves the process
+compared to not doing so.'
 
 links:
 - name: URL
