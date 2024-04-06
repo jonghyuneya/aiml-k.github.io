@@ -6,7 +6,7 @@ image:
 authors:
   - jaeheunjung
   - taehuncha
-  - jeungunha
+  - jeongunha
   - hanyoungkim
   - changhaejung
   - yejinjeong
