@@ -22,19 +22,20 @@ bio: Just got here!
 
 interests:
   - Mathematics
-
+  - Optimization
+  - Model Compression
 
 education:
   courses:
-    - course: Ph.D. in Computer Science
-      institution: Princeton University
-      year: 2019
-    - course: M.S. in Computational Biology
-      institution: Carnegie Mellon University
-      year: 2009
-    - course: B.A. in Biochemistry
-      institution: Columbia University in the City of New York
-      year: 2007
+    # - course: Ph.D. in Computer Science
+    #   institution: Princeton University
+    #   year: 2019
+    # - course: M.S. in Computational Biology
+    #   institution: Carnegie Mellon University
+    #   year: 2009
+    - course: B.S. in Physics
+      institution: Konkuk University
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -73,13 +74,12 @@ user_groups:
 ---
 
 <!-- 짧은 자기소개 -->
-I am an assistant professor in Department of Mathematics, Korea University. 
-I have been leading AIML@K since 2021, with the goal of educating future leaders and colleagues aware of the importance of bridging artificial intelligence and mathematics.
+My name is Roh Kyunghee, and I am a master's student in the Department of Mathematics (MDS) at Korea University and researching artificial intelligence at AIML@K. 
+
 
 <!-- 연구분야/주제 관심사 소개 -->
-My personal research themes include learning to make wise decisions under uncertainty, efficiency of machine learning algorithms, explainable and verifiable artificial intelligence. 
+I'm interested in optimization and model compression. 
+
 
 <!-- 그 외의 것/trivia -->
-My Ph.D. started in 2009 and ended in 2019: in the midst of my Ph.D. decade I also worked as a (senior) software engineer at Samsung Electronics. 
-Meanwhile, I have been putting efforts into public outreaches regarding significant events and impactful findings in my field of research and interest, such as "Dissecting AlphaGo" (알파고 해부하기) series. 
-Additional details can be found in my [curriculum vitae](https://docs.google.com/document/d/1QZI5EFBZ3Xsw4TMAHOI6sB7T_JsBC7y4UUIAGhU-sXo/edit?usp=sharing).
+I graduated from the Department of Physics at Konkuk University. Although I majored in physics, the reason I chose to major in mathematics was because I wanted to study artificial intelligence based on mathematics.
