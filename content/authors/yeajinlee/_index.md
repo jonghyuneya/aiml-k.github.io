@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Yejin Lee
+title: Yeajin Lee
 
 # Full Name (for SEO)
-first_name: Yejin
+first_name: Yeajin
 last_name: Lee
 
 # Is this the primary user of the site?
@@ -21,20 +21,18 @@ organizations:
 bio: Just got here!
 
 interests:
+  - Finance
   - Mathematics
 
 
 education:
   courses:
-    - course: Ph.D. in Computer Science
-      institution: Princeton University
-      year: 2019
-    - course: M.S. in Computational Biology
-      institution: Carnegie Mellon University
-      year: 2009
-    - course: B.A. in Biochemistry
-      institution: Columbia University in the City of New York
-      year: 2007
+    - course: Master in Financial Mathematics 
+      institution: Korea University, Seoul, Korea
+      year: 2024-current
+    - course: Bachelor in Economics / Artificial Intelligence Convergence (Business & AI) 
+      institution: Hankuk University of Foreign Studies, Seoul, Korea
+      year: 2019-2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
