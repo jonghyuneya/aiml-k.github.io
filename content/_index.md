@@ -9,7 +9,7 @@ sections:
     content:
       title: |
         AI+Math Lab @ Korea
-     image:
+      image:
         # Reference an image in your `assets/media/` folder
         filename: welcome.jpg
       text: |
