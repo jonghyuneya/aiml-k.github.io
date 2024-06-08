@@ -15,10 +15,10 @@ sections:
         <br>
         
         We expand the frontier of artificial intelligence with mathematics via research, teaching, and outreaching for the human race.
-      # primary_action:
-      #   text: Get Started
-      #   url: https://example.com
-      #   icon: sparkles
+      primary_action:
+        text: Meet the AIMLers
+        url: ./people/
+        icon: fa-wand-sparkles
       # secondary_action:
       #   text: Read the docs
       #   url: https://example.com
@@ -67,12 +67,12 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
   
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the AIMLers →" %}}
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle:
+  #     text: |
+  #       {{% cta cta_link="./people/" cta_text="Meet the AIMLers →" %}}
+  #   design:
+  #     columns: '1'
 ---
