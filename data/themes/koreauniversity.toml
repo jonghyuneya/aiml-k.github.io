@@ -5,6 +5,9 @@ name = "Koreauniversity"
   # Primary
   primary = "#7c001a"
 
+  link = "#d7002d"
+  link_hover = "#ff0035"
+
   # Menu
   menu_primary = "#fff"
   menu_text = "#7c001a"
@@ -14,3 +17,4 @@ name = "Koreauniversity"
   # Home sections
   home_section_odd = "#fff"
   home_section_even = "#fff7e9"
+
