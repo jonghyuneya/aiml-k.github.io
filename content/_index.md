@@ -15,12 +15,14 @@ sections:
       text: |
         <br>
         
-        We expand the frontier of artificial intelligence with mathematics via research, teaching, and outreaching for the human race.
+        In AIML@K, we expand the frontier of artificial intelligence with mathematics through researching, teaching, and outreaching for the human race.
+        <!--Custom spacing-->
+        <div class="mb-3"></div>
       cta:
         label: Meet the AIMLers
         url: ./people/
         icon_pack: fas
-        icon: fa-wand-sparkles
+        icon: wand-sparkles
       # # Optionally, add an alternative CTA link
       # cta_alt:
       #   label: Ask a question
