@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: strawberry # minimal
+  theme_day: koreauniversity # minimal
   # theme_night: 
   mode: light
   # color: red # does not work (tailwind) 
