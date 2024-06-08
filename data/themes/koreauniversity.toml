@@ -1,0 +1,16 @@
+# Theme metadata
+name = "Koreauniversity"
+
+[light]
+  # Primary
+  primary = "#7c001a"
+
+  # Menu
+  menu_primary = "#fff"
+  menu_text = "#7c001a"
+  menu_text_active = "rgb(208, 255, 56)"
+  menu_title = "#7c001a"
+
+  # Home sections
+  home_section_odd = "#7c001a"
+  home_section_even = "#7c001a"
