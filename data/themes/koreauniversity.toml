@@ -16,5 +16,5 @@ name = "Koreauniversity"
 
   # Home sections
   home_section_odd = "#fff"
-  home_section_even = "#fff7e9"
+  home_section_even = "#fffcf6"
 
