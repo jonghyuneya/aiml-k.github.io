@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: strawberry # minimal
   # theme_night: 
   mode: light
-  color: red  
+  # color: red # does not work (tailwind) 
 # see https://docs.hugoblox.com/getting-started/customize/#color-themes
   font: native
   font_size: L
