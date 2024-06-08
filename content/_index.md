@@ -56,7 +56,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: ASB_lobby_2022.jpg
+          filename: ASB_lobby_2022.png
           filters:
             brightness: 1
           parallax: false
