@@ -7,10 +7,10 @@ name = "Koreauniversity"
 
   # Menu
   menu_primary = "#fff"
-  menu_text = "#1565c0"
+  menu_text = "#7c001a"
   menu_text_active = "#d7002d"
-  menu_title = "#ff0"
+  menu_title = "#00ff00"
 
   # Home sections
   home_section_odd = "#fff"
-  home_section_even = "#f8ebd5"
+  home_section_even = "#fff7e9"
