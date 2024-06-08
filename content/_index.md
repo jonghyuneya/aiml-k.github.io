@@ -11,7 +11,7 @@ sections:
         AI+Math Lab @ Korea
       image:
         # Reference an image in your `assets/media/` folder
-        filename: welcome.jpg
+        filename: 20230922_140739_yes.jpg
       text: |
         <br>
         
@@ -63,7 +63,7 @@ sections:
         image: 
           filename: ASB_lobby_2022.jpg
           filters:
-            brightness: 1
+            brightness: 0.8
           parallax: true
           position: center
           size: cover
