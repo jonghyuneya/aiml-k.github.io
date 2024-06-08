@@ -2,7 +2,7 @@
 title: Four New Masters Graduating from AIML@K!
 date: 2024-02-23
 image:
-  focal_point: 'mid'
+  focal_point: 'top'
   caption: 'In regalia: Jihun - Yanggee - Hanyoung'
 authors:
   - yanggeekim
