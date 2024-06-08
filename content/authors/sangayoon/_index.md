@@ -10,7 +10,7 @@ last_name: Yoon
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -21,8 +21,8 @@ organizations:
 bio: Mathematician & Designer
 
 interests:
+- Graphic Design
 - Mathematics
-
 
 education:
   courses:
@@ -47,6 +47,9 @@ social:
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
+  - icon: instagram
+    icon_pack: brands
+    link: https://www.instagram.com/_sanga_yoon_/
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.com/citations?user=I-XhaYgAAAAJ
@@ -76,4 +79,10 @@ user_groups:
 <!-- 연구분야/주제 관심사 소개 -->
 <!-- 그 외의 것/trivia -->
 
-Guess who!
+I am Sanga Yoon, an undergraduate student at Korea University. I am majoring in Mathematics to fulfill my interest in AI. 
+
+I am taking part of designing graphic elements and frontend UX in this lab.
+My main field of study is visual communication design, especially specializing in type design.
+As a would-be graphic designer, I always seek for a way to integrate AI and numerical analysis to type design workflow. 
+
+Currently, I am designing a Hangeul typeface as well as participating in a type revival research team analyzing the early Hanguel metal types.
