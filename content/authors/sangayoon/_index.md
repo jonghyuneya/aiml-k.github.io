@@ -48,7 +48,7 @@ social:
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
   - icon: instagram
-    icon_pack: brands
+    icon_pack: fab
     link: https://www.instagram.com/_sanga_yoon_/
   # - icon: google-scholar
   #   icon_pack: ai
