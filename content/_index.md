@@ -8,14 +8,25 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        AI+Math Lab @ Korea
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        We expand the frontier of artificial intelligence with mathematics via research, teaching, and outreaching for the human race.
+      # primary_action:
+      #   text: Get Started
+      #   url: https://example.com
+      #   icon: sparkles
+      # secondary_action:
+      #   text: Read the docs
+      #   url: https://example.com
+      # announcement:
+      #   text: Announcing the release of version 1.
+      #   link:
+      #     text: Read more
+      #     url: https://example.com
   
   - block: collection
     content:
@@ -45,7 +56,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: ASB_lobby_2022.jpg
           filters:
             brightness: 1
           parallax: false
@@ -61,7 +72,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="Meet the AIMLers →" %}}
     design:
       columns: '1'
 ---
