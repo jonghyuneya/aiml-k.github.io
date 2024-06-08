@@ -7,8 +7,10 @@
 
 appearance:
   theme_day: minimal
-  theme_night: 
-  color: red  # see https://docs.hugoblox.com/getting-started/customize/#color-themes
+  # theme_night: 
+  mode: light
+  color: red  
+# see https://docs.hugoblox.com/getting-started/customize/#color-themes
   font: native
   font_size: L
 
