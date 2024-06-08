@@ -5,28 +5,31 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: hero # see https://bootstrap.hugoblox.com/blocks/hero/
     content:
       title: |
         AI+Math Lab @ Korea
-      image:
+     image:
+        # Reference an image in your `assets/media/` folder
         filename: welcome.jpg
       text: |
         <br>
         
         We expand the frontier of artificial intelligence with mathematics via research, teaching, and outreaching for the human race.
-      primary_action:
-        text: Meet the AIMLers
+      cta:
+        label: Meet the AIMLers
         url: ./people/
+        icon_pack: fas
         icon: fa-wand-sparkles
-      # secondary_action:
-      #   text: Read the docs
-      #   url: https://example.com
-      # announcement:
-      #   text: Announcing the release of version 1.
-      #   link:
-      #     text: Read more
-      #     url: https://example.com
+      # # Optionally, add an alternative CTA link
+      # cta_alt:
+      #   label: Ask a question
+      #   url: https://discord.gg/z8wNYzb
+      # # Optionally, add a note under the Call-To-Action button
+      # cta_note:
+      #   label: >-
+      #     <div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Hugo Blox Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>          
+  
   
   - block: collection
     content:
