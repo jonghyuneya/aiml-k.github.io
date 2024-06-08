@@ -5,8 +5,8 @@ name = "Koreauniversity"
   # Primary
   primary = "#7c001a"
 
-  link = "#d7002d"
-  link_hover = "#ff0035"
+  link = "#7c001a"
+  link_hover = "#eb0132"
 
   # Menu
   menu_primary = "#fff"
