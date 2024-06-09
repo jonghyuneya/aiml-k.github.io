@@ -71,13 +71,11 @@ user_groups:
 ---
 
 <!-- 짧은 자기소개 -->
-I am an assistant professor in Department of Mathematics, Korea University. 
-I have been leading AIML@K since 2021, with the goal of educating future leaders and colleagues aware of the importance of bridging artificial intelligence and mathematics.
+I am a master’s student in Financial Engineering at Korea University and expect to graduate in February 2025. I have participated in the epoxy project at AIML, where my primary role involved developing predictive models for material properties and using outlier detection techniques to enhance prediction reliability.
 
 <!-- 연구분야/주제 관심사 소개 -->
-My personal research themes include learning to make wise decisions under uncertainty, efficiency of machine learning algorithms, explainable and verifiable artificial intelligence. 
+My research interest lies in quantitative trading using machine learning, focusing on utilizing LLMs for alpha generation. I am exploring alpha signal extraction from diverse financial data sources using state-of-the-art NLP technologies, specifically focusing on how LLMs can identify novel trading signals and improve investment strategies. 
 
 <!-- 그 외의 것/trivia -->
-My Ph.D. started in 2009 and ended in 2019: in the midst of my Ph.D. decade I also worked as a (senior) software engineer at Samsung Electronics. 
-Meanwhile, I have been putting efforts into public outreaches regarding significant events and impactful findings in my field of research and interest, such as "Dissecting AlphaGo" (알파고 해부하기) series. 
-Additional details can be found in my [curriculum vitae](https://docs.google.com/document/d/1QZI5EFBZ3Xsw4TMAHOI6sB7T_JsBC7y4UUIAGhU-sXo/edit?usp=sharing).
+Before entering graduate school, I accumulated approximately eight years of experience in business management at Samsung Electronics. The COVID-19 pandemic prompted me to reconsider my career path and pursue advanced studies in financial engineering. I am dedicated to learning and applying AI techniques to contribute to quantitative finance. 
+Additional details can be found in my [resume](https://drive.google.com/file/d/1NFXwyfvj0GS7rQ4Dg4bF2H7uKcI6A2zr/view?usp=drive_link).
