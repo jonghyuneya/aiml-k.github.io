@@ -11,7 +11,7 @@ appearance:
   mode: light
   # color: red # does not work (tailwind) 
 # see https://docs.hugoblox.com/getting-started/customize/#color-themes
-  font: native
+  font: koreauniversity # native
   font_size: L
 
 # SEO
