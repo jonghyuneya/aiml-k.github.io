@@ -66,7 +66,8 @@ sections:
             brightness: 0.8
           parallax: true
           position: center
-          size: cover
+#  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+          size: contain
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
