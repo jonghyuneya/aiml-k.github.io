@@ -27,15 +27,12 @@ interests:
 
 education:
   courses:
-    - course: Ph.D. in Computer Science
-      institution: Princeton University
-      year: 2019
-    - course: M.S. in Computational Biology
-      institution: Carnegie Mellon University
-      year: 2009
-    - course: B.A. in Biochemistry
-      institution: Columbia University in the City of New York
-      year: 2007
+    - course: M.S. in Financial Engineering
+      institution: Korea University
+      year: 2025 (expected)
+    - course: B.A. in International Business
+      institution: Shanghai University of Finance and Economics
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
