@@ -35,10 +35,10 @@ education:
     #   year: 2012
     - course: M.S. in Financial Engineering
       institution: Korea University
-      year: 2009
+      year: 2022
     - course: B.A. in Sociology
       institution: Yonsei University
-      year: 2008
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
