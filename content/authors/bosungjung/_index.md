@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Boseong Jeong
+title: Bosung Jung
 
 # Full Name (for SEO)
-first_name: Boseong
-last_name: Jeong
+first_name: Bosung
+last_name: Jung
 
 # Is this the primary user of the site?
 superuser: false
