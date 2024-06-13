@@ -59,9 +59,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Ricepunchb
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: https://docs.google.com/document/d/1QZI5EFBZ3Xsw4TMAHOI6sB7T_JsBC7y4UUIAGhU-sXo/edit?usp=sharing
+  - icon: cv
+    icon_pack: ai
+    link: https://drive.google.com/file/d/1mYcFwOqKrtTqSOMJJIBrH6aQbuQolduD/view?usp=drive_link
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
