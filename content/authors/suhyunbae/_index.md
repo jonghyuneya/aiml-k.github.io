@@ -79,6 +79,5 @@ user_groups:
 <!-- 연구분야/주제 관심사 소개 -->
 <!-- 그 외의 것/trivia -->
 
-Hi! My name is SuHyun, a Master student in Mathematical Data Science, Korea University since 2024. I'm interested in how to make models truthful. Not just LLMs like ChatGPT, but also any foundation models.
- 
-Talking about my hobby, I played piano since 2013, and was in college band club as keyboardist. I also like to play drums.  
+My name is SuHyun, a Master student in Mathematical Data Science at Korea University, and I also completed my undergraduate degree in Mathematics at K.U. 
+I have been interested in creating friendly AI. since I was young. So I decided to study mathematics to understand the mathematical principles underlying AI. My goal is to analyze and design models rigorously.
