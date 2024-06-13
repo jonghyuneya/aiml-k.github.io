@@ -18,10 +18,10 @@ organizations:
     url: 'http://www.korea.edu'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Just got here!
+bio: The cake is not a lie!
 
 interests:
-- LLM
+- LLM & NLP
 - Mathematics
 - Hallucination Reducing
 - Model Evaluation
@@ -34,7 +34,7 @@ education:
     #   year: 2019
     - course: M.S. in Mathematics
       institution: Korea University
-      year: 2026 (expected)
+      year: 2025 (expected)
     - course: B.S. in Mathematics
       institution: Korea University
       year: 2024
