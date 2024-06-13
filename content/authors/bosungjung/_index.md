@@ -18,23 +18,22 @@ organizations:
     url: 'http://www.korea.edu'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Just got here!
+bio: Completing coursework at all the schools within the Korea Central Education Institute.
 
 interests:
-  - Mathematics
+  - LLM on math problem
+  - Vision Model
+  - Fractional Gradient Descent
 
 
 education:
   courses:
-    - course: Ph.D. in Computer Science
-      institution: Princeton University
-      year: 2019
-    - course: M.S. in Computational Biology
-      institution: Carnegie Mellon University
-      year: 2009
-    - course: B.A. in Biochemistry
-      institution: Columbia University in the City of New York
-      year: 2007
+    - course: M.S. Student in Mathematical Data Science
+      institution: Korea University
+      year: 2025 (expected)
+    - course: B.A. in Mathematics
+      institution: Korea University
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -43,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:@korea.ac.kr '
+    link: '2018160026@korea.ac.kr '
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -73,13 +72,10 @@ user_groups:
 ---
 
 <!-- 짧은 자기소개 -->
-I am an assistant professor in Department of Mathematics, Korea University. 
-I have been leading AIML@K since 2021, with the goal of educating future leaders and colleagues aware of the importance of bridging artificial intelligence and mathematics.
+I am an M.S Student in Department of Mathematics, Korea University. Additionally, I completed my degree at the Department of Mathematics at K.U., as well as my education at K.U. High School and K.U. Middle School.
 
 <!-- 연구분야/주제 관심사 소개 -->
-My personal research themes include learning to make wise decisions under uncertainty, efficiency of machine learning algorithms, explainable and verifiable artificial intelligence. 
+My research interests lie in enhancing Language Models for mathematical problem-solving. Additionally, I have interest in analyzing optimizers using fractional derivatives, applying them in Gradient Descent and Neural Network. However, I don't want to restrict my interest to just some subjects.
 
 <!-- 그 외의 것/trivia -->
-My Ph.D. started in 2009 and ended in 2019: in the midst of my Ph.D. decade I also worked as a (senior) software engineer at Samsung Electronics. 
-Meanwhile, I have been putting efforts into public outreaches regarding significant events and impactful findings in my field of research and interest, such as "Dissecting AlphaGo" (알파고 해부하기) series. 
-Additional details can be found in my [curriculum vitae](https://docs.google.com/document/d/1QZI5EFBZ3Xsw4TMAHOI6sB7T_JsBC7y4UUIAGhU-sXo/edit?usp=sharing).
+In 2022, I augmented Raman spectra using VAE and GAN. In 2023, I developed an algorithm to hedge IRS products. In 2024, I am participating in a competition to enhance the mathematical reasoning capabilities of artificial intelligence. For more information, please refer to [my resume](https://drive.google.com/file/d/1c1YAf7T4TPelpcp_A6zlAiUxvxxZZ_il/view?usp=sharing).
