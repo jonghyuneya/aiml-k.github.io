@@ -20,10 +20,10 @@ links:
   url: TODO
 # url_pdf:TODO
 
-tags: ['Hallucination']['Metric']
+tags: ['Hallucination','NLP','LLM']
 
 # image:
-#   caption: 'Keunsuk and Jaehyuk with their poster in KSC 2023 (Busan, South Korea)'
+#   caption: 'SuHyun with his poster in KCC 2024 (Jeju, South Korea)'
 #   focal_point: ''
 #   preview_only: false
 
