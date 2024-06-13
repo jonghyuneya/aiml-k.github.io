@@ -18,10 +18,10 @@ organizations:
     url: 'http://www.korea.edu'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Just got here!
+bio: The cake is not a lie!
 
 interests:
-- LLM
+- LLM & NLP
 - Mathematics
 - Hallucination Reducing
 - Model Evaluation
@@ -34,7 +34,7 @@ education:
     #   year: 2019
     - course: M.S. in Mathematics
       institution: Korea University
-      year: 2026 (expected)
+      year: 2025 (expected)
     - course: B.S. in Mathematics
       institution: Korea University
       year: 2024
@@ -59,9 +59,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Ricepunchb
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: https://docs.google.com/document/d/1QZI5EFBZ3Xsw4TMAHOI6sB7T_JsBC7y4UUIAGhU-sXo/edit?usp=sharing
+  - icon: cv
+    icon_pack: ai
+    link: https://drive.google.com/file/d/1mYcFwOqKrtTqSOMJJIBrH6aQbuQolduD/view?usp=drive_link
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -79,6 +79,5 @@ user_groups:
 <!-- 연구분야/주제 관심사 소개 -->
 <!-- 그 외의 것/trivia -->
 
-Hi! My name is SuHyun, a Master student in Mathematical Data Science, Korea University since 2024. I'm interested in how to make models truthful. Not just LLMs like ChatGPT, but also any foundation models.
- 
-Talking about my hobby, I played piano since 2013, and was in college band club as keyboardist. I also like to play drums.  
+My name is SuHyun, a Master student in Mathematical Data Science at Korea University, and I also completed my undergraduate degree in Mathematics at K.U. 
+I have been interested in creating friendly AI. since I was young. So I decided to study mathematics to understand the mathematical principles underlying AI. My goal is to analyze and design models rigorously.
