@@ -82,4 +82,4 @@ I'm interested in optimization and model compression.
 
 
 <!-- 그 외의 것/trivia -->
-I graduated from the Department of Physics at Konkuk University. Although I majored in physics, after studying quantum mechanics, I realized that physics was not my path. I decided to study artificial intelligence based on mathematics, which led me to choose mathematics as my major.
+I graduated from the Department of Physics at Konkuk University. After studying quantum mechanics, I realized that physics was not my path. 
