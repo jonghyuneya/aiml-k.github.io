@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Kyung Hee Roh
+title: Kyunghee Roh
 
 # Full Name (for SEO)
-first_name: Kyung Hee
+first_name: Kyunghee
 last_name: Roh
 
 # Is this the primary user of the site?
@@ -18,7 +18,7 @@ organizations:
     url: 'http://www.korea.edu'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Just got here!
+bio: calm ambitious girl
 
 interests:
   - Mathematics
@@ -30,9 +30,9 @@ education:
     # - course: Ph.D. in Computer Science
     #   institution: Princeton University
     #   year: 2019
-    # - course: M.S. in Computational Biology
-    #   institution: Carnegie Mellon University
-    #   year: 2009
+    - course: M.S. in Mathematics (MDS)
+      institution: Korea University
+      year: 2025 (expected)
     - course: B.S. in Physics
       institution: Konkuk University
       year: 2024
@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:@rkh97@korea.ac.kr'
+    link: 'mailto:@rkh97@naver.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -82,4 +82,4 @@ I'm interested in optimization and model compression.
 
 
 <!-- 그 외의 것/trivia -->
-I graduated from the Department of Physics at Konkuk University. Although I majored in physics, the reason I chose to major in mathematics was because I wanted to study artificial intelligence based on mathematics.
+I graduated from the Department of Physics at Konkuk University. Although I majored in physics, after studying quantum mechanics, I realized that physics was not my path. I decided to study artificial intelligence based on mathematics, which led me to choose mathematics as my major.
