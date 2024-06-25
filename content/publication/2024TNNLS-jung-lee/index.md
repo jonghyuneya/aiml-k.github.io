@@ -1,7 +1,7 @@
 ---
 title: Bypassing Stationary Points in Training Deep Learning Models
 authors:
-- Jaeheun Jung
+- jaeheunjung
 - admin
 date: '2024-06-25'
 publishDate: '2024-06-25T01:23:45.678901Z'
