@@ -24,7 +24,7 @@ abstract: '이 논문은 자율주행 차량 내 공유 저장소 시스템에�
 links:
 - name: URL
   url: TODO
-# url_pdf: 'https://aclanthology.org/2024.eacl-long.31.pdf'
+url_pdf: 'https://aiml-k.github.io/uploads/files/kcc2024/KCC2024_SharedStorage_RKLLJL.pdf'
 
 tags: ['Autonomous Vehicle', 'Storage System']
 
