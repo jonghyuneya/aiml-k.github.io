@@ -24,7 +24,7 @@ RANSAC 과 머신러닝을 결합한 방법을 제안한다. RANSAC 을 활용�
 links:
 - name: URL
   url: TODO
-# url_pdf: 'https://aclanthology.org/2024.eacl-long.31.pdf'
+url_pdf: 'https://aiml-k.github.io/uploads/files/kcc2024/KCC2024_Epoxy_JCL.pdf'
 
 tags: ['Epoxy', 'Outlier Detection']
 
