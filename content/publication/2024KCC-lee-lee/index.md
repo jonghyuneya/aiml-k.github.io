@@ -18,7 +18,7 @@ abstract: '온라인 학습 시스템 내에서 발생하는 챗봇 대화 로�
 links:
 - name: URL
   url: TODO
-# url_pdf: 'https://aclanthology.org/2024.eacl-long.31.pdf'
+url_pdf: 'https://aiml-k.github.io/uploads/files/kcc2024/KCC2024_Clustering_LL.pdf'
 
 tags: ['Hallucination']
 
