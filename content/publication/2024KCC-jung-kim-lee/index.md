@@ -20,7 +20,7 @@ abstract: '현재의 기계학습 모델에서는 경사하강법에 다양한 �
 links:
 - name: URL
   url: TODO
-# url_pdf: 'https://aclanthology.org/2024.eacl-long.31.pdf'
+url_pdf: 'https://aiml-k.github.io/uploads/files/kcc2024/KCC2024_FractionalDerivative_JKL.pdf'
 
 tags: ['Gradient Descent', 'Fractional Derivative']
 

@@ -18,7 +18,7 @@ abstract: '대형 언어 모델의 생성 텍스트는 환각 현상 때문에 �
 links:
 - name: URL
   url: TODO
-# url_pdf:TODO
+url_pdf: 'https://aiml-k.github.io/uploads/files/kcc2024/KCC2024_Hallucination_BL'
 
 tags: ['Hallucination','NLP','LLM']
 

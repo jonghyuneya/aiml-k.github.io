@@ -20,7 +20,7 @@ abstract: '인간 행동 인식 문제는 높은 활용성으로 기계학습을
 links:
 - name: URL
   url: TODO
-# url_pdf: 'https://aclanthology.org/2024.eacl-long.31.pdf'
+url_pdf: 'https://aiml-k.github.io/uploads/files/kcc2024/KCC2024_Ropejumping_KLCL.pdf'
 
 tags: ['Hallucination']
 
