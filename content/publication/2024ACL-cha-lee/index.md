@@ -17,7 +17,7 @@ abstract: Solving a problem outside the training space, i.e. extrapolation, has 
 
 links:
 - name: URL
-  url: 'https://language-plus-molecules.github.io'
+  url: 'https://aclanthology.org/2024.langmol-1.4/'
 
 url_pdf: 'https://aiml-k.github.io/uploads/files/2024/ACL2024-workshop-cha-lee.pdf'
 
