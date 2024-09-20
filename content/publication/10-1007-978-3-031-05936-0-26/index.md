@@ -35,5 +35,5 @@ image:
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-031-05936-0_26
-url_pdf: 'lee_powell_ORKG_2022.pdf'
+url_pdf: 'papers/lee_powell_ORKG_2022.pdf'
 ---
