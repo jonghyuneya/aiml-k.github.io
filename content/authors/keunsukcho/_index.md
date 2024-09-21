@@ -10,7 +10,7 @@ last_name: Cho
 superuser: false
 
 # Role/position
-role: M.S. Candidate
+role: M.Sc. in Mathematics
 
 # Organizations/Affiliations
 organizations:
@@ -78,4 +78,4 @@ I am a Korea University graduate from the Data Science and Analysis program.
 Dedicated to software engineering, having two or more years of expertise, and specialising in deep generative task and its evaluation, machine learning, and signal processing. Searching mostly for Machine Learning, Data Scientist, and Python Development positions.
 
 <!-- 그 외의 것/trivia -->
-My [curriculum vitae](cv/CV_KeunsukCho_20240915.pdf) contains more details about me!
+My [curriculum vitae](https://aiml-k.github.io/cv/CV_KeunsukCho_20240915.pdf) contains more details about me!
