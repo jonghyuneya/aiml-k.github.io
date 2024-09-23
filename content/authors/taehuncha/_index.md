@@ -51,9 +51,9 @@ social:
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=Vf-Q43IAAAAJ
   # - icon: orcid
   #   icon_pack: ai
   #   link: https://orcid.org/0000-0002-7941-2395
@@ -75,8 +75,8 @@ user_groups:
   - Ph.D. Students
 ---
 
-I'm Taehun Cha, a Ph.D. candidate in AIML. While I was in graduate school, I majored in Sociology, Cultural study, and Applied Statistics. Though I currently do not utilize most of the knowledge I learned at that time, I learned how to think, write, and communicate with people from totally different backgrounds.
+I'm Taehun Cha, a Ph.D. candidate in AIML. While in undergraduate school, I majored in Sociology, Cultural study, and Applied Statistics. Though I currently do not utilize most of the knowledge I learned at that time, I learned how to think, write, and communicate with people from totally different backgrounds.
 
 After graduation, I needed to find a way to manage my livelihood. So I learned financial engineering and was certificated as an International Financial Risk Manager. Though I currently do not utilize most of the knowledge I learned at that time (again), my curiosity about modern language models ignited at that time. Also, I'm still interested in AI applications in the financial domain.
 
-Now I'm learning mathematics to rigorously explain the several common behaviors of LLMs. Though digging LLMs from a mathematical aspect is yet immature and challenging, I believe we, humans, need to understand how and why this works clearly, before it is adopted too deeply into our lives.
+Now I'm learning mathematics to explain the several common behaviors of LLMs rigorously. Though digging LLMs from a mathematical aspect is yet immature and challenging, I believe we, humans, need to understand how and why this works clearly, before it is adopted too deeply into our lives.
