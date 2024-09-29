@@ -54,13 +54,14 @@ sections:
 
   - block: collection
     content:
-      title: Select Publications
+      title: Recent Publications
       subtitle:
       text:
       count: 5
       filters:
         author: ''
         category: ''
+        featured_only: true
         exclude_featured: false
         publication_type: ''
         tag: ''
