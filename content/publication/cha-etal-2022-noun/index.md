@@ -26,11 +26,13 @@ links:
   url: https://aclanthology.org/2022.coling-1.338
 url_pdf: 'https://aclanthology.org/2022.coling-1.338.pdf'
 
-tags: ['NLP', 'select']
+tags: ['NLP']
 
 image:
   caption: 'Taehun and Jaeheun with the poster at COLING 2022 (Gyeongju, South Korea)'
   focal_point: ''
   preview_only: false
+
+featured: true
 
 ---
