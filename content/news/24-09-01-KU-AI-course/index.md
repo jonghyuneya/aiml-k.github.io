@@ -1,5 +1,5 @@
 ---
-title: Three AIML@K Students Serve as TAs for Korea University’s First University-wide Data Science and Artificial Intelligence Course
+title: Four AIML@K Students Serve as TAs for Korea University’s First University-wide Data Science and Artificial Intelligence Course
 date: 2024-09-01
 image:
   focal_point: 'top'
@@ -7,9 +7,10 @@ authors:
   - hanyoungkim
   - yeajinlee
   - wanshancui
+  - shuaizhuoyuan
 ---
 
-We are proud to announce that three AIML@K students are selected in the inaugural recruitment of highly skilled teaching assistants (TAs) for Korea University’s first university-wide course on Data Science and Artificial Intelligence. Selected through a rigorous university-wide recruitment process, these TAs are integral to the launch and success of this pioneering course.
+We are proud to announce that four AIML@K students are selected in the inaugural recruitment of highly skilled teaching assistants (TAs) for Korea University’s first university-wide course on Data Science and Artificial Intelligence. Selected through a rigorous university-wide recruitment process, these TAs are integral to the launch and success of this pioneering course.
 
 <!--more-->
 
