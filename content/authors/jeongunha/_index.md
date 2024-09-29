@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Student
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -26,6 +26,7 @@ bio: I have had my own named patent.
 
 interests:
   - Physics-Informed Neural Network
+  - Generative Model
 
 education:
   courses:
@@ -75,6 +76,4 @@ user_groups:
 
 ---
 
-Jeung-un Ha is a Ph.D. candidate.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jeong-un Ha is a Ph.D. candidate.
