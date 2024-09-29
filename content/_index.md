@@ -38,7 +38,7 @@ sections:
       title: Latest News
       subtitle:
       text:
-      count: 10
+      count: 5
       filters:
         author: ''
         category: ''
@@ -50,8 +50,27 @@ sections:
       page_type: news
     design:
       view: card
-      columns: '2'
-  
+      columns: '1'
+
+  - block: collection
+    content:
+      title: Select Publications
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: 'select'
+      offset: 0
+      order: desc
+      page_type: publication
+    design:
+      view: compact
+      columns: '1'
+
   - block: markdown
     content:
       title:
