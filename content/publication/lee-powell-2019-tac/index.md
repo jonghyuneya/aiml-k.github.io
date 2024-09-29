@@ -22,5 +22,6 @@ tags:
 - Q-learning
 - Reinforcement Learning
 
+featured: true
 
 ---

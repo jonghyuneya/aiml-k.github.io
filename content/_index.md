@@ -54,14 +54,14 @@ sections:
 
   - block: collection
     content:
-      title: Recent Publications
+      title: Select Publications
       subtitle:
       text:
       count: 5
       filters:
         author: ''
         category: ''
-        featured_only: true
+        featured_only: true # set "featured: true" in pub frontmatter
         exclude_featured: false
         publication_type: ''
         tag: ''
