@@ -29,7 +29,7 @@ links:
   url: https://aclanthology.org/2024.eacl-long.31
 url_pdf: 'https://aclanthology.org/2024.eacl-long.31.pdf'
 
-tags: ['NLP']
+tags: ['NLP', 'select']
 
 image:
   caption: 'Taehun Cha presenting the work at EACL 2024 (St. Julian’s, Malta)'
