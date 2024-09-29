@@ -63,7 +63,7 @@ sections:
         category: ''
         exclude_featured: false
         publication_type: ''
-        tag: 'select'
+        tag: ''
       offset: 0
       order: desc
       page_type: publication
