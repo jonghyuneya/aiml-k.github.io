@@ -38,7 +38,7 @@ sections:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 10
       filters:
         author: ''
         category: ''
@@ -50,7 +50,7 @@ sections:
       page_type: news
     design:
       view: card
-      columns: '1'
+      columns: '2'
   
   - block: markdown
     content:
@@ -67,7 +67,7 @@ sections:
           parallax: true
           position: center
 #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-          size: contain
+          size: cover
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
