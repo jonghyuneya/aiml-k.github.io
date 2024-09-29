@@ -21,7 +21,7 @@ links:
 tags:
 - Deep learning
 - Theory
-- select
 
+featured: true 
 
 ---
