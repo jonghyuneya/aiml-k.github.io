@@ -9,7 +9,6 @@ Gaussian process, Bayesian optimization 그리고 Knowledge gradient에 대하�
 
 책 형태를 여기서 갖고가는것보다는, 다른 별도의 리포를 통해서 가져가는게 좋겠다.
 
-----
 
 글쓰기 관련 참조: https://bootstrap.hugoblox.com/content/writing-markdown-latex/ 
 

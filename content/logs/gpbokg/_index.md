@@ -1,4 +1,4 @@
------
+---
 # Page title
 title: GP-BO-KG 
 
@@ -6,7 +6,7 @@ title: GP-BO-KG
 # linktitle: Course
 
 # Page summary for search engines.
-summary: Gaussian Process, Bayesian Optimization, Knowledge Gradient
+summary: 'Gaussian Process, Bayesian Optimization, Knowledge Gradient'
 
 # Date page published
 date: 2024-09-29
@@ -16,4 +16,4 @@ type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 1
------
+---
