@@ -64,7 +64,7 @@ social:
 #   link: files/cv.pdf
   - icon: cv
     icon_pack: ai
-    link: files/cv/CV__Jae_Hyuk_Sung.pdf
+    link: cv/CV__Jae_Hyuk_Sung.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
