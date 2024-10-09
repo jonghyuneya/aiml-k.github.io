@@ -57,7 +57,7 @@ social:
     link: https://github.com/sjki928
   - icon: cv
     icon_pack: ai
-    link: static/uploads/files/cv/cv_jbs_aimlk.pdf
+    link: https://drive.google.com/file/d/1c1YAf7T4TPelpcp_A6zlAiUxvxxZZ_il/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
