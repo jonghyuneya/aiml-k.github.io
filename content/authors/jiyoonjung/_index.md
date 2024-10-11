@@ -66,11 +66,11 @@ user_groups:
 ---
 
 <!-- 짧은 자기소개 -->
-I am M.S. Student with completion status.
-I am focusing on quantitative research in equities market by capturing discrepacies of the market, based on ideation in terms of qualitative and quantitative approach.
+I am a Master's student currently completing my degree program. My research focuses on quantitative equity market analysis, specifically on identifying market discrepancies using both qualitative and quantitative approaches.
 
 <!-- 연구분야/주제 관심사 소개 -->
-My personal research themes include outlier detection as an extension of time series analysis and artificial intelligence approach.  
+My personal research interests include outlier detection within the context of time series analysis and artificial intelligence.
 
 <!-- 그 외의 것/trivia -->
-My B.S. started in 2016 and ended in 2020: in the midst of my B.S., I researhced on Linear Algebra - Proving existence of Inverse Matrix under certain setting - and Rummikub winning strategy - Combinatorics - as undergraduate student.
+Before pursuing my Master's degree, I earned a Bachelor's degree from Korea University between 2016 and 2020. During my undergraduate studies, I conducted research on Linear Algebra, proving the existence of an inverse matrix under specific conditions, and explored the winning strategy for the game of Rummikub using combinatorial analysis.
+
