@@ -9,8 +9,8 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: '2024-11'
-publishDate: '2024-11-08T00:00:00.000001Z'
+date: '2024-11-08'
+publishDate: '2024-10-08T00:00:00.000001Z'
 publication_types:
 - presentation
 publication: '*Korea-Yonsei Science Research Fair 2024*'
