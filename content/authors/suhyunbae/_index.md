@@ -22,9 +22,8 @@ bio: The cake is not a lie!
 
 interests:
 - LLM & NLP
-- Mathematics
-- Hallucination Reducing
-- Model Evaluation
+- Agent & LAM
+- Model Architecture
 
 
 education:
@@ -34,7 +33,7 @@ education:
     #   year: 2019
     - course: M.S. in Mathematics
       institution: Korea University
-      year: 2025 (expected)
+      year: 2026 (expected)
     - course: B.S. in Mathematics
       institution: Korea University
       year: 2024
@@ -47,6 +46,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:@korea.ac.kr '
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Ricepunchb
+  - icon: linkedin
+    icon_pack: fab
+    link: linkedin.com/in/suhyun-bae-869043286
+  - icon: cv
+    icon_pack: ai
+    link: cv/CV_suhyun_2411.pdf
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -56,12 +64,7 @@ social:
   # - icon: orcid
   #   icon_pack: ai
   #   link: https://orcid.org/0009-0002-7449-5336
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Ricepunchb
-  - icon: cv
-    icon_pack: ai
-    link: https://drive.google.com/file/d/1mYcFwOqKrtTqSOMJJIBrH6aQbuQolduD/view?usp=drive_link
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -76,8 +79,8 @@ user_groups:
 ---
 
 <!-- 짧은 자기소개 -->
+Hi, my name is SuHyun Bae. I'm Master student in Mathematical Data Science at Korea University. Also a researcher of AIML@K.
 <!-- 연구분야/주제 관심사 소개 -->
+My research interests are mainly in NLP and utilizing Language models.
 <!-- 그 외의 것/trivia -->
-
-My name is SuHyun, a Master student in Mathematical Data Science at Korea University, and I also completed my undergraduate degree in Mathematics at K.U. 
-I have been interested in creating friendly AI. since I was young. So I decided to study mathematics to understand the mathematical principles underlying AI. My goal is to analyze and design models rigorously.
+I have been interested in creating friendly AI since I was young. So I decided to study mathematics to understand the mathematical principles underlying AI. My goal is to analyze and design models rigorously.
