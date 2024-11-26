@@ -51,7 +51,7 @@ social:
     link: https://github.com/Ricepunchb
   - icon: linkedin
     icon_pack: fab
-    link: linkedin.com/in/suhyun-bae-869043286
+    link: https://www.linkedin.com/in/suhyun-bae-869043286
   - icon: cv
     icon_pack: ai
     link: cv/CV_suhyun_2411.pdf
