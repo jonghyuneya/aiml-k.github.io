@@ -19,15 +19,16 @@ publication_short: In *고연학술교류회 2024*
 abstract: "abstract comes here"
 
 links:
-- name: URL
-  url: TODO
-# url_pdf: 'https://aiml-k.github.io/uploads/files/kcc2024/KCC2024_SharedStorage_RKLLJL.pdf'
+- name: Poster
+  url: 'posters/2024_KY-ScienceFair-YejinJeong.pdf'
+
+# url_pdf: 'posters/2024_KY-ScienceFair-YejinJeong.pdf'
 
 tags: ['Computer Vision', 'Biomedical Applications']
 
-# image:
-#   caption: 'Yejin gives the presentation'
-#   focal_point: ''
-#   preview_only: false
+image:
+  caption: 'Yejin right after presenting her poster'
+  focal_point: 'center'
+  preview_only: false
 
 ---
