@@ -18,23 +18,24 @@ organizations:
     url: 'http://www.korea.edu'
 
 # Short bio (displayed in user profile at end of posts)
-bio: The very first Lim of AIML@K
+bio: こんにちは、你好， Xin Chào, und Hallo!
 
 interests:
   - Generative models
+  - Signal processing
   - Fourier transform
 
 education:
   courses:
-    - course: Ph.D. in Computer Science
-      institution: Princeton University
-      year: 2019
-    - course: M.S. in Computational Biology
-      institution: Carnegie Mellon University
-      year: 2009
-    - course: B.A. in Biochemistry
-      institution: Columbia University in the City of New York
-      year: 2007
+    # - course: Ph.D. in Computer Science
+    #   institution: Princeton University
+    #   year: 2019
+    - course: M.S. in Mathematics
+      institution: Korea University
+      year: 2024
+    - course: B.S. in Mathematics / Financial Engineering
+      institution: Korea University
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -76,13 +77,10 @@ user_groups:
 ---
 
 <!-- 짧은 자기소개 -->
-I am an assistant professor in Department of Mathematics, Korea University. 
-I have been leading AIML@K since 2021, with the goal of educating future leaders and colleagues aware of the importance of bridging artificial intelligence and mathematics.
+Hi, I am Jihun. I finished my master's degree at AIML@K, advised by Professor Donghun Lee.
 
 <!-- 연구분야/주제 관심사 소개 -->
-My personal research themes include learning to make wise decisions under uncertainty, efficiency of machine learning algorithms, explainable and verifiable artificial intelligence. 
+My research interests lie in generative models. Recently, I focused on studying generative models for seismic wave analysis. I also have experience in action classification, GNN, and neural architecture search (NAS).
 
 <!-- 그 외의 것/trivia -->
-My Ph.D. started in 2009 and ended in 2019: in the midst of my Ph.D. decade I also worked as a (senior) software engineer at Samsung Electronics. 
-Meanwhile, I have been putting efforts into public outreaches regarding significant events and impactful findings in my field of research and interest, such as "Dissecting AlphaGo" (알파고 해부하기) series. 
-Additional details can be found in my [curriculum vitae](https://docs.google.com/document/d/1QZI5EFBZ3Xsw4TMAHOI6sB7T_JsBC7y4UUIAGhU-sXo/edit?usp=sharing).
+Previously, I worked as an IT Audit intern at Samil PwC. I obtained my bachelor's degree from Korea University.

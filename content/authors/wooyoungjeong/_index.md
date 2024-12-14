@@ -14,27 +14,27 @@ role: M.S. in Mathematics
 
 # Organizations/Affiliations
 organizations:
-  - name: Korea University
-    url: 'http://www.korea.edu'
+  - name: GNEWSOFT
+    url: 'http://www.gnewsoft.com'
 
 # Short bio (displayed in user profile at end of posts)
 bio: The very first graduates of Mathematical Data Science program
 
 interests:
-  - Computer vision
-  - Virtual Try-on
+  - Foundation Model
+  - Representation Learning
+  - Reinforcement Learning
+  - Multispectral Imaging
+  - Optimization
 
 education:
   courses:
-    - course: Ph.D. in Computer Science
-      institution: Princeton University
-      year: 2019
-    - course: M.S. in Computational Biology
-      institution: Carnegie Mellon University
-      year: 2009
-    - course: B.A. in Biochemistry
-      institution: Columbia University in the City of New York
-      year: 2007
+    - course: M.S. in Mathematics
+      institution: Korea University
+      year: 2023
+    - course: B.S. in Energy Chemical Engineering
+      institution: Incheon National University
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -72,14 +72,15 @@ user_groups:
   - Alumni
 ---
 
-<!-- 짧은 자기소개 -->
-I am an assistant professor in Department of Mathematics, Korea University. 
-I have been leading AIML@K since 2021, with the goal of educating future leaders and colleagues aware of the importance of bridging artificial intelligence and mathematics.
+Greetings! I’m Wooyoung Jeong.
 
-<!-- 연구분야/주제 관심사 소개 -->
-My personal research themes include learning to make wise decisions under uncertainty, efficiency of machine learning algorithms, explainable and verifiable artificial intelligence. 
+I earned my Bachelor’s degree in Energy Chemical Engineering from Incheon National University (INU). Under the guidance of Professor Oh Joong Kwon, I was fueled by my passion for finding optimal solutions in chemistry and developed a keen interest in artificial intelligence as it began to revolutionize various fields. This fascination inspired me to delve into the advanced world of mathematics.
 
-<!-- 그 외의 것/trivia -->
-My Ph.D. started in 2009 and ended in 2019: in the midst of my Ph.D. decade I also worked as a (senior) software engineer at Samsung Electronics. 
-Meanwhile, I have been putting efforts into public outreaches regarding significant events and impactful findings in my field of research and interest, such as "Dissecting AlphaGo" (알파고 해부하기) series. 
-Additional details can be found in my [curriculum vitae](https://docs.google.com/document/d/1QZI5EFBZ3Xsw4TMAHOI6sB7T_JsBC7y4UUIAGhU-sXo/edit?usp=sharing).
+So, I pursued a Master’s degree in Mathematical Data Science (MDS) at the Department of Mathematics, Korea University (KU). At KU, I immersed myself in rigorous academic research under the mentorship of Professor Donghun Lee, focusing on mathematical modeling, data analysis, and algorithm development. Together, we explored the intersection of mathematics and artificial intelligence, aiming to develop innovative solutions to complex problems.
+
+During my undergraduate years, I was dedicated to optimization, seeking the best solutions like a treasure hunt. The burgeoning field of AI further fueled my enthusiasm, leading me to emphasis on MDS, where I engaged in meaningful research that combined mathematics, data science, and engineering principles. 
+
+My first professional experience was at BioAI’s corporate research institute. There, I worked on developing high-energy-density lithium metal secondary batteries using AI solutions based on battery research data. Focusing on the cathode and anode materials of lithium-ion batteries (LIB), I developed regression models that predict physico-chemical properties in molecular spaces represented by 3D grids (actually 4D-), I also explored reinforcement learning (RL)-based Design of Experiments (DoE) to reduce the time and cost associated with traditional DoE methods.
+From now on, I’m continuing my journey at Gnewsoft’s corporate research institute. I’m diving into the world of multispectral and hyperspectral imaging (MSI, HSI), working on developing foundational models primarily focused on reconstruction. I’m also exploring few-shot learning and representation learning, utilizing downstream (also known as transfer learning) tasks. Along the way, I’m crafting new algorithms and models based on mathematical insight and creativity—it’s like being an artist!
+
+With endless curiosity and a zest for learning, I strive to explore new knowledge and aim to contribute to both academic advancement and real-world applications. I’m excited to keep pushing boundaries and making a positive impact in the field!
