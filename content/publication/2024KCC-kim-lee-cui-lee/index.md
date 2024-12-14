@@ -19,15 +19,16 @@ abstract: '인간 행동 인식 문제는 높은 활용성으로 기계학습을
 
 links:
 - name: URL
-  url: TODO
-url_pdf: 'https://aiml-k.github.io/uploads/files/kcc2024/KCC2024_Ropejumping_KLCL.pdf'
+  url: 'https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862021'
+  
+url_pdf: 'uploads/files/kcc2024/KCC2024_Ropejumping_KLCL.pdf'
 
-tags: ['Hallucination']
+tags: ['Time Series','Application','Startup']
 
-# image:
-#   caption: 'Keunsuk and Jaehyuk with their poster in KSC 2023 (Busan, South Korea)'
-#   focal_point: ''
-#   preview_only: false
+image:
+  caption: 'Yeajin about to present the poster at Jeju island'
+  focal_point: 'right'
+  preview_only: false
 
 ---
 
