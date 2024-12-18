@@ -48,6 +48,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:cth127@korea.ac.kr'
+  - icon: globe
+    icon_pack: fas
+    link: https://cth127.github.io
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
