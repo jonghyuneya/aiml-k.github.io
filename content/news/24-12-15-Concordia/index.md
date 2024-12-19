@@ -1,5 +1,5 @@
 ---
-title: Taehun Cha Won First Place from Concordia Contest @ Neurips 2024
+title: Taehun Cha Wins the First Place from Concordia Contest @ Neurips 2024
 date: 2024-12-15
 image:
   focal_point: 'top'
@@ -7,7 +7,7 @@ authors:
   - taehuncha
 ---
 
-We are glad to announce that Taehun Cha won first place in the Concordia Contest @ Neurips 2024! 🎉
+We are glad to announce that Taehun Cha won the first place in the Concordia Contest @ NeurIPS 2024! 🎉
 
 <!--more-->
 
