@@ -21,8 +21,8 @@ organizations:
 bio: Completing coursework at all the schools within the Korea Central Education Institute.
 
 interests:
-  - LLM on math problem
-  - Vision Model
+  - SLM on math problem
+  - Baysian Optimization
   - Fractional Gradient Descent
 
 
@@ -30,7 +30,7 @@ education:
   courses:
     - course: M.S. Student in Mathematical Data Science
       institution: Korea University
-      year: 2025 (expected)
+      year: 2026 (expected)
     - course: B.A. in Mathematics
       institution: Korea University
       year: 2024
@@ -57,7 +57,7 @@ social:
     link: https://github.com/sjki928
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/1c1YAf7T4TPelpcp_A6zlAiUxvxxZZ_il/view?usp=sharing
+    link: cv/CV_BosungJung_20250110.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -75,7 +75,9 @@ user_groups:
 I am an M.S Student in Department of Mathematics, Korea University. Additionally, I completed my degree at the Department of Mathematics at K.U., as well as my education at K.U. High School and K.U. Middle School.
 
 <!-- 연구분야/주제 관심사 소개 -->
-My research interests lie in enhancing Language Models for mathematical problem-solving. Additionally, I have interest in analyzing optimizers using fractional derivatives, applying them in Gradient Descent and Neural Network. However, I don't want to restrict my interest to just some subjects.
+My research interests lie in enhancing Small Language Models for mathematical problem-solving and developing a Bayesian optimization algorithm capable of effectively handling mixed spaces. Additionally, I have interest in analyzing optimizers using fractional derivatives, applying them in Gradient Descent and Neural Network. However, I don't want to restrict my interest to just some subjects.
 
 <!-- 그 외의 것/trivia -->
-In 2022, I augmented Raman spectra using VAE and GAN. In 2023, I developed an algorithm to hedge IRS products. In 2024, I am participating in a competition to enhance the mathematical reasoning capabilities of artificial intelligence. For more information, please refer to [my resume](https://drive.google.com/file/d/1c1YAf7T4TPelpcp_A6zlAiUxvxxZZ_il/view?usp=sharing).
+In 2022, I augmented Raman spectra using VAE and GAN. In 2023, I developed an algorithm to hedge IRS products. In 2024, I am participating in a competition to enhance the mathematical reasoning capabilities of artificial intelligence.
+
+Additionally, I recently worked as an intern at Nara-Information Co., Ltd. for 4 months, where I participated in training small language models (SLMs) and deploying them as services for institutions, gaining insight into the potential of SLMs.
