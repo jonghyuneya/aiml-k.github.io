@@ -16,7 +16,15 @@ publication_types:
 publication: '*Korea-Yonsei Science Research Fair 2024*'
 publication_short: In *고연학술교류회 2024*
 
-abstract: "abstract comes here"
+abstract: '
+Background context: Accurate and consistent measurement of sagittal alignment is challenging, particularly in patients with severe coronal deformities, including degenerative lumbar scoliosis (DLS).
+Purpose: This study aimed to develop and validate an artificial intelligence (AI)-based system for automating the measurement of key sagittal parameters, including lumbar lordosis, pelvic incidence, pelvic tilt, and sacral slope, with a focus on its applicability across a wide range of deformities, including severe coronal deformities, such as DLS.
+Design: Retrospective observational study.
+Patient sample: A total of 1,011 standing lumbar lateral radiographs, including DLS.
+Outcome measure: Interclass and intraclass correlation coefficients (CC), and Bland-Altman plots.
+Methods: The model utilizes a deep-learning framework, incorporating a U-Net for segmentation and a Keypoint Region-based Convolutional Neural Network for keypoint detection. The ground truth masks were annotated by an experienced orthopedic specialist. The performance of the model was evaluated against ground truth measurements and assessments from two expert raters using interclass and intraclass CC, and Bland-Altman plots.
+Results: In the test set of 113 patients, 39 (34.5%) had DLS, with a mean Cobb’s angle of 14.8° ± 4.4°. The AI model achieved an intraclass CC of 1.00 across all parameters, indicating perfect consistency. Interclass CCs comparing the AI model to ground truth ranged from 0.96 to 0.99, outperforming experienced orthopedic surgeons. Bland-Altman analysis revealed no significant systemic bias, with most differences falling within clinically acceptable ranges. A 5-fold cross-validation further demonstrated robust performance, with interclass CCs ranging from 0.96 to 0.99 across diverse subsets.
+Conclusion: This AI-based system offers a reliable and efficient automated measurement of sagittal parameters in spinal deformities, including severe coronal deformities. The superior performance of the model compared with that of expert raters highlights its potential for clinical applications.'
 
 links:
 - name: Poster
