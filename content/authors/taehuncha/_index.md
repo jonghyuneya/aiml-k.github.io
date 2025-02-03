@@ -48,6 +48,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:cth127@korea.ac.kr'
+  - icon: globe
+    icon_pack: fas
+    link: https://cth127.github.io
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -64,7 +67,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: cv/CV_TaehunCha_20241008.pdf
+    link: https://cth127.github.io/assets/pdf/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
