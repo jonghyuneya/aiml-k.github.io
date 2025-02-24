@@ -10,7 +10,7 @@ last_name: Cui
 superuser: false
 
 # Role/position
-role: M.S. Student
+role: M.S. in Financial Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ education:
   courses:
     - course: M.S. in Financial Engineering
       institution: Korea University
-      year: 2025 (expected)
+      year: 2025
     - course: B.A. in International Business
       institution: Shanghai University of Finance and Economics
       year: 2015
@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:choi430@korea.ac.kr '
+    link: 'mailto:choi430@korea.ac.kr'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - M.S. Students
+  - Alumni
 ---
 
 <!-- 짧은 자기소개 -->
