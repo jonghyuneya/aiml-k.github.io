@@ -21,9 +21,8 @@ organizations:
 bio: calm ambitious girl
 
 interests:
-  - Mathematics
   - Optimization
-  - Model Compression
+  - Computer Vision
 
 education:
   courses:
@@ -78,8 +77,8 @@ My name is Roh Kyunghee, and I am a master's student in the Department of Mathem
 
 
 <!-- 연구분야/주제 관심사 소개 -->
-I'm interested in optimization and model compression. 
+I'm interested in optimization and computer vision
 
 
 <!-- 그 외의 것/trivia -->
-I graduated from the Department of Physics at Konkuk University. After studying quantum mechanics, I realized that physics was not my path. 
+I graduated from the Department of Physics at Konkuk University. After studying Quantum Mechanics, I realized that physics was not my path. 
