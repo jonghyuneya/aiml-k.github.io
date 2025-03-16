@@ -14,8 +14,8 @@ role: M.S. in Mathematics
 
 # Organizations/Affiliations
 organizations:
-  - name: Korea University
-    url: 'http://www.korea.edu'
+  - name: Samsung Electronics
+    url: 'https://www.samsung.com/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: こんにちは、你好， Xin Chào, und Hallo!
@@ -77,7 +77,7 @@ user_groups:
 ---
 
 <!-- 짧은 자기소개 -->
-Hi, I am Jihun. I finished my master's degree at AIML@K, advised by Professor Donghun Lee.
+Hi, I'm Jihun. I am a software engineer at Samsung Electronics, Audio Group (MX). I completed my master's degree at AIML@K under the supervision of Professor Donghun Lee.
 
 <!-- 연구분야/주제 관심사 소개 -->
 My research interests lie in generative models. Recently, I focused on studying generative models for seismic wave analysis. I also have experience in action classification, GNN, and neural architecture search (NAS).
