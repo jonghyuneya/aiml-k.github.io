@@ -78,7 +78,6 @@ sections:
     content:
       username: kyungheeroh
 
-
   - block: markdown
     content:
       title: Research Focus
@@ -169,7 +168,7 @@ My name is Roh Kyunghee, and I am a master's student in the Department of Mathem
 
 
 <!-- 연구분야/주제 관심사 소개 -->
-I'm interested in optimization and computer vision.
+I'm interested in Bayesian Optimization and Computer Vision.
 
 
 <!-- 그 외의 것/trivia -->
