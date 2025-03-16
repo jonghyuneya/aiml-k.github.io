@@ -110,4 +110,4 @@ My current research focus involves extracting keypoint coordinates from video fr
 
 Our backbone model MobileNet V2 demonstrates a PCKh of 86.278 and a latency of 34.5ms when tested on a Galaxy Note 8. The objective of this research is to improve the AI model used for analyzing exercise motions to achieve a PCKh of 90 or more and reduce latency to under 30ms
 
-To ensure practical application, I will evaluate the model's performance and usability in real-world scenarios, incorporating user feedback for continuous refinement. Additionally, I intend to expand the exercise motion dataset, developing a model robust to the inherent variability of real-world data. Finally, I am committed to the goal of releasing the developed AI fitness application in October
+To ensure practical application, I will evaluate the model's performance and usability in real-world scenarios, incorporating user feedback for continuous refinement. Additionally, I intend to expand the exercise motion dataset, developing a model robust to the inherent variability of real-world data. Finally, I am committed to the goal of releasing the developed AI fitness application in October 2025
