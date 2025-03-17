@@ -54,7 +54,7 @@ social:
     link: https://www.linkedin.com/in/suhyun-bae-869043286
   - icon: cv
     icon_pack: ai
-    link: cv/CV_suhyun_2411.pdf
+    link: cv/CV_SuHyunBae_2503.pdf
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -87,19 +87,19 @@ I have been interested in creating friendly AI since I was young. So I decided t
 
 ### Research Experience
 
-- 2023.07 - 2023.12 | AGC 2023
-  Generated and refined a dataset using GPT to fine-tune a model for answering multi-answer questions
+- 2023.07 - 2023.12 | **AI Grand Challenge 2023**    
+Generated and refined a dataset using `GPT 3.5` via `openai-API` to fine-tune a model for answering multi-answer questions. Our lab won 7th place
 
-- 2024.02 - 03 | Practicing RAG  
+- 2024.02 - 03 | **Practicing RAG**   
   Conducted research on Retrieval-Augmented Generation (RAG) technology and applied it to implement a model for the DACON competition, "한솔데코 도배하자 Q&A"
 
-- 2024.03 - 06 | KCC 2024 and Hallucination
+- 2024.03 - 06 | **KCC 2024 and Hallucination**   
   Classified hallucination types in QA task into 5 categories and identified that the natural language evaluation metrics BLEU, METEOR, and ROUGE each excel at detecting certain types of hallucinations while struggling with others. This was published at KCC 2024
 
-- 2024.07 - 2025.01 | Internship at SK Magic
+- 2024.07 - 2025.01 | **Internship at SK Magic**   
   Product planning and development at SK magic, focusing on algorithm development for new product and researching on-device LLM ecosystems and data infrastructure for product integration
 
-- 2025.03 - PRESENT | Grokking and Hallucination
+- 2025.03 - PRESENT | **Grokking and Hallucination**   
   Interested in the phenomenon of grokking and researching its potential role in reducing hallucinations
   
 
@@ -107,7 +107,7 @@ I have been interested in creating friendly AI since I was young. So I decided t
 
 My research focus is on understanding the phenomenon of grokking in language models and progressively expanding its application.
 First, grokking has primarily been observed in domains such as modular arithmetic and group operations. I aim to extend this to logical structures that use natural language, such as syllogisms, to determine whether grokking can occur in these contexts.
-Second, current studies on grokking have been largely limited to simple transformer-based models. I plan to investigate whether grokking can also be observed in small-scale language models (sLLMs) such as LLaMA 3.2 1B and DeepSeek 1.78B.
+Second, current studies on grokking have been largely limited to simple transformer-based models. I plan to investigate whether grokking can also be observed in small-scale language models (sLLMs) such as `LLaMA 3.2 1B` and `DeepSeek 1.78B`.
 
 
 ### Research Goal
