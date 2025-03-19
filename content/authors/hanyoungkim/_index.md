@@ -82,4 +82,4 @@ I initially entered this research field with an interest in financial market ana
 
 With this foundation, I approach research with an open and inquisitive mindset, staying actively engaged in ongoing discussions and projects in the lab while continuously seeking new ideas and perspectives to explore.
 
-I have always valued the principle of "cold head, warm heart" and strive to embody it in my daily work. I believe in approaching research with dedication and clarity while fostering a warm and collaborative environment. Ensuring smooth coordination among team members and minimizing disruptions in collective workflows is a key value I uphold in my research approach.
+I have always valued the principle of "cold head, warm heart" and strive to embody it in my daily work. I make it a priority to approach research with dedication and clarity while fostering a warm and collaborative environment. Ensuring smooth coordination among team members and minimizing disruptions in collective workflows is a key value I uphold in my research approach.
