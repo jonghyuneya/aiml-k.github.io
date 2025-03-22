@@ -27,8 +27,6 @@ bio: I have had my own named patent.
 interests:
   - Physics-Informed Neural Network
   - Generative Model
-  - Neural Operator
-
 
 education:
   courses:
@@ -41,7 +39,7 @@ education:
     - course: B.S. in Mathematics
       institution: Korea University
       year: 2019
-    - 
+
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -78,8 +76,4 @@ user_groups:
 
 ---
 
-I'm Jeong-un Ha, a Ph.D. candidate in AIML-K. I majored in Representation Theory in the pure mathematics, but now I'm studying Generative Model and Neural Operator.
-
-When I was in the project Noise Generation in our lab, I majorly dealt with the conditional/unconditional generative model synthesizing the seismic noise. After the project ended, I was involved in LSTM model development work and experiments sequential dataset synthesis in collaboration with the Department of Mechanical Engineering. (Not formal collaboration between labs.)
-
-Now I'm interested in Neural Operator Learning. In particular, we focus on generative models using neural operator solvers. I believe that being able to synthesize datasets using mathematical theory will be very useful in environments where dataset synthesis is difficult.
+Jeong-un Ha is a Ph.D. candidate.
