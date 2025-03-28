@@ -57,6 +57,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: https://drive.google.com/file/d/1OkS3p8_mL8Hin6nnB3aq-bn8bhVisuFY/view?usp=sharing
+    - icon: notion
+    icon_pack: devicon
+    link: https://light-acapella-b89.notion.site/Jung-Chang-Hae-1319ac7370138042a91aeeaf417bc97b
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'changhae08@korea.ac.kr'
