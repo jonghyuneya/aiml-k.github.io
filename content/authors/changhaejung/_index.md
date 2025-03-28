@@ -57,9 +57,6 @@ social:
   - icon: cv
     icon_pack: ai
     link: https://drive.google.com/file/d/1OkS3p8_mL8Hin6nnB3aq-bn8bhVisuFY/view?usp=sharing
-  - icon: notion-plain
-    icon_pack: devicon
-    link: https://light-acapella-b89.notion.site/Jung-Chang-Hae-1319ac7370138042a91aeeaf417bc97b
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'changhae08@korea.ac.kr'
@@ -82,4 +79,4 @@ My interest is NLP, and recently I am also interested in language-based multimod
 
 <!-- 그 외의 것/trivia -->
 I mainly worked on seismic tasks in the lab and also participated in competitions such as AGC.
-Additional details can be found in my [curriculum vitae](https://drive.google.com/file/d/1OkS3p8_mL8Hin6nnB3aq-bn8bhVisuFY/view?usp=sharing).
+Additional details can be found in my [Notion](https://light-acapella-b89.notion.site/Jung-Chang-Hae-1319ac7370138042a91aeeaf417bc97b).
