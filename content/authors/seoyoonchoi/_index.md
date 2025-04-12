@@ -18,7 +18,7 @@ organizations:
     url: 'http://www.korea.edu'
 
 # Short bio (displayed in user profile at end of posts)
-bio: TODO
+bio: Data Science | Machine Learning Enthusiast | Runner
 
 interests:
 - Analysis, Geometry
