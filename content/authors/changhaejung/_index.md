@@ -10,7 +10,7 @@ last_name: Jung
 superuser: false
 
 # Role/position
-role: M.S. Student
+role: M.S. in Mathematics
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +28,7 @@ education:
   courses:
     - course: M.S. in Mathematics
       institution: Korea University
-      year: 2025 (expected)
+      year: 2025
 
     - course: B.A. in Mathematics and Computer Engineering
       institution: Konkuk University
@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:changhae08@korea.ac.kr '
+    link: 'mailto:changhae08@korea.ac.kr'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - M.S. Students
+  - Alumni
 ---
 
 <!-- 짧은 자기소개 -->
@@ -79,4 +79,4 @@ My interest is NLP, and recently I am also interested in language-based multimod
 
 <!-- 그 외의 것/trivia -->
 I mainly worked on seismic tasks in the lab and also participated in competitions such as AGC.
-Additional details can be found in my [curriculum vitae](https://drive.google.com/file/d/1OkS3p8_mL8Hin6nnB3aq-bn8bhVisuFY/view?usp=sharing).
+Additional details can be found in my [Notion](https://light-acapella-b89.notion.site/Jung-Chang-Hae-1319ac7370138042a91aeeaf417bc97b).
