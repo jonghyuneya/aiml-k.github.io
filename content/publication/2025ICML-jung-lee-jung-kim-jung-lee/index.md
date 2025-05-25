@@ -23,12 +23,14 @@ image:
   preview_only: false
 
 links:
-- name: arXiv
-  url: 'https://arxiv.org/abs/2412.11104'
+- name: ICML
+  url: 'https://icml.cc/virtual/2025/poster/45003'
 - name: PDF
   url: 'https://openreview.net/pdf?id=Wdy227OCCr'
 
 
 tags: ['Earthquake', 'Diffusion Model', 'Waveform Generative AI']
+
+featured: true
 
 ---
