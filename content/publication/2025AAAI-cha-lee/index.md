@@ -16,8 +16,11 @@ abstract: In causal inference, a randomized experiment is a de facto method to o
 links:
 - name: AAAI
   url: 'https://ojs.aaai.org/index.php/AAAI/article/view/34880'
+- name: poster
+  url: 'posters/AAAI2025_ABC3_poster.pdf'
 - name: arXiv
   url: 'https://arxiv.org/abs/2412.11104'
+
 
 doi: '10.1609/aaai.v39i25.34880'
 
