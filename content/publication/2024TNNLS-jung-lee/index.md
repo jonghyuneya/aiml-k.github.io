@@ -22,6 +22,11 @@ tags:
 - Deep learning
 - Theory
 
+image:
+  caption: 'Bypassing-in-a-nutshell diagram'
+  focal_point: 'center'
+  preview_only: false
+
 featured: true 
 
 ---
