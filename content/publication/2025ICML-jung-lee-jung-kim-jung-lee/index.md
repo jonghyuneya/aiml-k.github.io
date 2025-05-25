@@ -31,4 +31,6 @@ links:
 
 tags: ['Earthquake', 'Diffusion Model', 'Waveform Generative AI']
 
+featured: true
+
 ---
