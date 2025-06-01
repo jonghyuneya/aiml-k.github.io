@@ -26,7 +26,7 @@ links:
 - name: ICML
   url: 'https://icml.cc/virtual/2025/poster/45003'
 - name: PDF
-  url: 'https://openreview.net/pdf?id=Wdy227OCCr'
+  url: 'papers/HEGGS_ICML_2025_camera_ready.pdf'
 
 
 tags: ['Earthquake', 'Diffusion Model', 'Waveform Generative AI']
