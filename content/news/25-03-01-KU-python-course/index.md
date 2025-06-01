@@ -16,7 +16,7 @@ We are proud to announce that three students from AIML@K have been selected as T
 This course, with KU course code GECT 002, serves as a mandatory component of the freshman curriculum and plays a central role in equipping all incoming students with foundational computational thinking and coding skills. 
 The Python course spans across multiple academic programs, in particular the TAs are assisting the course's section 5, in which 300+ students from the School of Natural Sciences, the School of Nursing, and the Program for Cyber and Information Security have registered. 
 
-The appointment of our lab members--from a mathematics-based department--to this broad-reaching, interdisciplinary audience highlights both their exceptional qualifications and the lab’s growing contribution to the university's vision to foster computer science literacy.\
+The appointment of our lab members--from a mathematics-based department--to this broad-reaching, interdisciplinary audience highlights both their exceptional qualifications and the lab’s growing contribution to the university's vision to foster computer science literacy.
 Please join us in congratulating our new TAs!
 
 For more details, please check these out:
