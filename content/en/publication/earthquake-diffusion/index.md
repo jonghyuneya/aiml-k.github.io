@@ -30,7 +30,7 @@ summary: 'We present a novel seismic waveform generation method that shows profe
 tags:
 - Diffusion
 - Generative model
-featured: true
+# featured: true
 
 links:
 - name: arXiv
