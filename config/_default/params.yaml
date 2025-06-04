@@ -28,6 +28,7 @@ marketing:
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
+    pirsch: 'sx4npXpRw5ozuIifDYUnleSMDesvw2g8'
   verification:
     google: ''
     baidu: ''
@@ -119,3 +120,11 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+# what would happen if I do this?
+i_am_a_sponsor: true
+
+# are there only two power-ups?
+power_ups:
+  hide_generator: true
+  hide_published_with: true
