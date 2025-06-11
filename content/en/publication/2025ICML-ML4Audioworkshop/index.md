@@ -1,9 +1,12 @@
 ---
-title: "Catalyst: Structured Pruning with Robust Bifurcation Dynamics"
+title: "Enhancing Generative Seismic Modeling via Proposed Paired Dataset Construction Method"
 authors:
+- jaehyuklee
 - jaeheunjung
+- yeajinlee
+- changhaejung
 - admin
-date: "2025-07-18T01:00:00Z"
+date: "2025-07-18T04:00:00Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,17 +21,17 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: 'Structured pruning reduces the computational cost of neural networks by removing filters, but conventional regularizers such as L1 or Group Lasso exhibit strong magnitude bias and unstable decision boundaries, suggesting suboptimal pruning dynamics. In this work, we revisit pruning through the lens of optimization, geometry and learning dynamics. We first characterize the precise algebraic conditions under which pruning preserves model outputs, then use this insight to design Catalyst, a novel regularizer defined in an extended parameter space with auxiliary variables. Catalyst reshapes the loss landscape to promote emergent bifurcation dynamics between filters to be pruned or preserved, ensuring magnitude-invariant, fair, and robust pruning decisions. Our formulation highlights how high-dimensional learning dynamics can be achieved via a well-founded regularizer for pruning. Empirically, the Catalyst pruning algorithm consistently outperforms standard approaches, demonstrating both its theoretical soundness and practical effectiveness.'
+abstract: "Seismic waves produced by earthquakes are among the most powerful natural sounds on Earth. Generating realistic earthquake induced ground motion waveforms can contribute significantly to both scientific understanding and practical mitigation of seismic hazards. However, existing generative models tend to generate subpar waveforms. We present High-fidelity Earthquake Groundmotion Generation System (HEGGS) and demonstrate its superior performance using earthquakes from North American regions. HEGGS leverages the intrinsic structure of seismic data through an end-to-end differentiable pipeline consisting of a conditional latent diffusion model and a high-fidelity waveform reconstruction module. HEGGS is evaluated with a variety of metrics drawn from both the audio generation and seismology communities, including P/S phase arrival accuracy, envelope correlation, signal-to-noise ratio, and section plot visualization. By modeling seismic signals as structured environmental sound, HEGGS contributes to the broader field of machine learning for audio and offers a framework for modeling rare geophysical phenomena with generative methods."
 
 # Summary. An optional shortened abstract.
-summary: 'Catalyst is a novel pruning regularizer that leverages auxiliary variables and optimization geometry to induce emergent bifurcation dynamics, enabling fair, magnitude-invariant, and robust filter pruning that consistently outperforms conventional methods both theoretically and empirically.'
+summary: 'HEGGS is a high-fidelity generative system that produces realistic earthquake ground motion waveforms by modeling seismic signals as structured environmental sounds using a conditional latent diffusion model and waveform reconstruction pipeline.'
 
 tags:
-- Pruning
-- Bifurcation Dynamics
+- Diffusion Model
+- Audio
+- Time Series
 
 links:
-
 # - name: PDF
 #   url: https://arxiv.org/pdf/2506.01994
 # - name: Github
@@ -47,7 +50,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: "**[3rd Workshop on High-dimensional Learning Dynamics (HiLD)](https://sites.google.com/view/hidimlearning/home)**"
+  caption: "AI Heard That! ICML 2025 Workshop on Machine Learning for Audio: **[Website](https://mlforaudioworkshop.github.io/)**"
   focal_point: ""
   preview_only: false
 
