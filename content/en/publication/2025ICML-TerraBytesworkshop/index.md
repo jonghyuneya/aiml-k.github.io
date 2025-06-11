@@ -18,8 +18,8 @@ publishDate: "2025-06-10T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**ICML 2025 - TerraBytes Workshop**"
-publication_short: "**ICML 2025 TerraBytes Workshop**"
+publication: "*[ICML 2025 Workshop - TerraBytes: Towards global datasets and models for Earth Observation](https://icml.cc/virtual/2025/workshop/39951)*"
+publication_short: "In *ICML 2025 TerraBytes Workshop*"
 
 abstract: "Observation in Earth sciences encompasses not only what can be visually perceived but also what can be inferred through instrumental recordings. As such, seismic data, though not directly visible, fall within the domain of Earth Observation (EO). Earthquakes are inherently sparse events, and the limited availability of ground motion records and associated metadata poses significant challenges for predicting and responding to earthquake-induced hazards. Although numerous data augmentation techniques based on deep learning have been proposed, their effectiveness is often hindered by the scarcity of high-quality training data. We introduce a scalable framework for constructing training datasets from limited seismic observations, aimed at improving the performance of generative models. By training models on the paired dataset constructed using our proposed methodology, we demonstrate both quantitatively and qualitatively that the generated waveforms closely resemble real seismic signals, thereby validating the effectiveness of our approach."
 

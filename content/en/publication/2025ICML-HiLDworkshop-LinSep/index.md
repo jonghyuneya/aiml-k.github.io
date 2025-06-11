@@ -15,8 +15,8 @@ publishDate: "2025-06-10T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**ICML 2025 - 3rd Workshop on High-dimensional Learning Dynamics (HiLD)**"
-publication_short: "**ICML 2025 HiLD Workshop**"
+publication: "*[ICML 2025 Workshop - 3rd Workshop on High-dimensional Learning Dynamics (HiLD)](https://icml.cc/virtual/2025/workshop/39953)*"
+publication_short: "In *ICML 2025 HiLD Workshop*"
 
 abstract: "In this work, we investigate the emergence of linear separability for unseen data points in the high-dimensional last-layer feature space of deep neural networks. Through empirical analysis, we observe that, after training, in-distribution and out-of-distribution samples become linearly separable in the last-layer feature space when the hidden dimension is sufficiently high—even in regimes where the input data itself is not. We leverage these observations for the task of uncertainty quantification. By connecting our findings to classical support vector machine margin theory, we theoretically show that the separating hyperplane exhibits a higher weight norm when facing in-distribution data points. This work highlights linear separability as a fundamental and analyzable property of trained deep neural networks' representations, offering a geometric perspective on the practical uncertainty quantification task in neural networks."
 
