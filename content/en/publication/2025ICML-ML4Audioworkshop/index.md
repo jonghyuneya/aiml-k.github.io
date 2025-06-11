@@ -1,5 +1,5 @@
 ---
-title: "Enhancing Generative Seismic Modeling via Proposed Paired Dataset Construction Method"
+title: "Broadband Ground Motion Synthesis by Diffusion Model with Minimal Condition"
 authors:
 - jaehyuklee
 - jaeheunjung
@@ -18,8 +18,8 @@ publishDate: "2025-06-10T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "**AI Heard That! ICML 2025 Workshop on Machine Learning for Audio**"
+publication_short: "ICML 2025 ML4Audio Workshop"
 
 abstract: "Seismic waves produced by earthquakes are among the most powerful natural sounds on Earth. Generating realistic earthquake induced ground motion waveforms can contribute significantly to both scientific understanding and practical mitigation of seismic hazards. However, existing generative models tend to generate subpar waveforms. We present High-fidelity Earthquake Groundmotion Generation System (HEGGS) and demonstrate its superior performance using earthquakes from North American regions. HEGGS leverages the intrinsic structure of seismic data through an end-to-end differentiable pipeline consisting of a conditional latent diffusion model and a high-fidelity waveform reconstruction module. HEGGS is evaluated with a variety of metrics drawn from both the audio generation and seismology communities, including P/S phase arrival accuracy, envelope correlation, signal-to-noise ratio, and section plot visualization. By modeling seismic signals as structured environmental sound, HEGGS contributes to the broader field of machine learning for audio and offers a framework for modeling rare geophysical phenomena with generative methods."
 
