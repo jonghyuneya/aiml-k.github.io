@@ -3,11 +3,11 @@ title: "Emergent Linear Separability of Unseen Data Points in High-dimensional L
 authors:
 - taehuncha
 - admin
-date: "2025-06-10T00:00:00Z"
+date: "2025-07-18T02:00:00Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-06-10T02:00:00Z"
+publishDate: "2025-06-10T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
