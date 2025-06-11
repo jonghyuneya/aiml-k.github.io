@@ -1,5 +1,5 @@
 ---
-title: "Enhancing Generative Seismic Modeling via Proposed Paired Dataset Construction Method"
+title: "Broadband Ground Motion Synthesis by Diffusion Model with Minimal Condition"
 authors:
 - jaehyuklee
 - jaeheunjung
