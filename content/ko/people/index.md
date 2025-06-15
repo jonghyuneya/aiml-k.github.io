@@ -11,14 +11,14 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Principal Investigator
+          - 지도교수
 #          - Researchers
-          - Ph.D. Students
-          - M.S. Students
-          - Undergraduate Students
-          - Visiting Scholars
+          - 박사과정학생
+          - 석사과정학생
+          - 학부학생
+          - 방문교원
           - Administrators
-          - Alumni
+          - 졸업생
       sort_by: Params.last_name
       sort_ascending: true
     design:
