@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Hanyoung Kim
+title: 김한영
 
 # Full name (for SEO)
-first_name: Hanyoung
-last_name: Kim
+first_name: 한영
+last_name: 김
 
 # Username (this should match the folder name)
 authors:

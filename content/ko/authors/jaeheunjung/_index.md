@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Jaeheun Jung
+title: 정재헌
 
 # Full name (for SEO)
-first_name: Jaeheun
-last_name: Jung
+first_name: 재헌
+last_name: 정
 
 # Username (this should match the folder name)
 authors:
