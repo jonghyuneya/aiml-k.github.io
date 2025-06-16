@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Kyunghee Roh
+title: 노경희
 type: landing
 
 # Full Name (for SEO)
-first_name: Kyunghee
-last_name: Roh
+first_name: 경희
+last_name: 노
 
 # Is this the primary user of the site?
 superuser: false

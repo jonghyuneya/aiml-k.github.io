@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yejin Jeong
+title: 정예진
 
 # Full Name (for SEO)
-first_name: Yejin
-last_name: Jeong
+first_name: 예진
+last_name: 정
 
 # Is this the primary user of the site?
 superuser: false

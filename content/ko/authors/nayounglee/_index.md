@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Nayoung Lee
+title: 이나영
 
 # Full Name (for SEO)
-first_name: Nayoung
-last_name: Lee
+first_name: 나영
+last_name: 이
 
 # Is this the primary user of the site?
 superuser: false
