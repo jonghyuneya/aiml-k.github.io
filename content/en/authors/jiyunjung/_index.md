@@ -1,6 +1,6 @@
 ---
 # Display name
-title: jiyun Jung
+title: Jiyun Jung
 
 # Full Name (for SEO)
 first_name: Jiyun
@@ -10,7 +10,7 @@ last_name: Jung
 superuser: false
 
 # Role/position
-role: M.S. Student - Completion
+role: M.S. Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -36,7 +36,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto:1626jy@gmail.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
