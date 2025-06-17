@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Dayeon Shin
+title: 신다연
 
 # Full Name (for SEO)
-first_name: Dayeon
-last_name: Shin
+first_name: 다연
+last_name: 신
 
 # Is this the primary user of the site?
 superuser: false

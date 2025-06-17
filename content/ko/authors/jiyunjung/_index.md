@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Jiyoon Jung
+title: 정지윤
 
 # Full Name (for SEO)
-first_name: Jiyun
-last_name: Jung
+first_name: 지윤
+last_name: 정
 
 # Is this the primary user of the site?
 superuser: false
@@ -48,7 +48,7 @@ social:
   #   link: https://orcid.org/0009-0002-7449-5336
   - icon: github
     icon_pack: fab
-    link: https://github.com/JiyoonJ
+    link: https://github.com/jiyunJ
   # - icon: cv
   #   icon_pack: ai
   #   link: https://docs.google.com/document/d/1QZI5EFBZ3Xsw4TMAHOI6sB7T_JsBC7y4UUIAGhU-sXo/edit?usp=sharing
@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - M.S. Students
+  - 석사과정학생
 ---
 
 <!-- 짧은 자기소개 -->

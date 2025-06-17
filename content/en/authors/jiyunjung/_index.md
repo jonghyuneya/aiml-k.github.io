@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jiyoon Jung
+title: jiyun Jung
 
 # Full Name (for SEO)
 first_name: Jiyun
@@ -48,7 +48,7 @@ social:
   #   link: https://orcid.org/0009-0002-7449-5336
   - icon: github
     icon_pack: fab
-    link: https://github.com/JiyoonJ
+    link: https://github.com/jiyunJ
   # - icon: cv
   #   icon_pack: ai
   #   link: https://docs.google.com/document/d/1QZI5EFBZ3Xsw4TMAHOI6sB7T_JsBC7y4UUIAGhU-sXo/edit?usp=sharing
@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 석사과정학생
+  - M.S. Students
 ---
 
 <!-- 짧은 자기소개 -->
