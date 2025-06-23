@@ -39,7 +39,13 @@ url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
-url_arxiv: 'https://arxiv.org/abs/2502.21009'
+
+links:
+- name: ICML
+  url: https://icml.cc/virtual/2025/poster/40104
+- name: ArXiv
+  url: https://arxiv.org/abs/2502.21009
+
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

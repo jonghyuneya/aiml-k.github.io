@@ -1,5 +1,5 @@
 ---
-title: TBA
+title: Korea University Physics Prof. Alex Rothkopf's Talk
 
 event: AIML@K Seminar Series
 event_url: https://aiml-k.github.io/tag/seminar/  
@@ -13,7 +13,7 @@ address:
   postcode: '02841'
   country: South Korea
 
-summary: 'TBA'
+summary: 'The talk will be about AI and quantum computing'
 abstract: |
     To be announced.
 
