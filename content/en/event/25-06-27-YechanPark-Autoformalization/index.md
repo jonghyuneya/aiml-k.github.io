@@ -1,9 +1,9 @@
 ---
-title: Autoformalization and automated theorem proving with language models
+title: Autoformalization and Automated Theorem Proving with Language Models
 
-
-event: AIML@K Seminar
-event_url: TBA # https://sites.google.com/view/aimlk-workshops/2023-fall
+event: AIML@K Seminar Series
+event_url: https://aiml-k.github.io/tag/seminar/  
+tags: ['seminar']
 
 location: Room 526, Asan Science Building 
 address:
@@ -28,7 +28,6 @@ all_day: false
 publishDate: '2024-06-23T00:00:00Z'
 
 authors: ['Yeachan Park']
-tags: ['seminar']
 
 # Is this a featured talk? (true/false)
 featured: false
