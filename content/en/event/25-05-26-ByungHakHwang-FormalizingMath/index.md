@@ -40,6 +40,9 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 url_poster: ''
+links:
+- name: KMS
+  url: 'https://www.kms.or.kr/conference/abstract/search_view.html?num=9650&uid=89&start=0&sort=sortDate&period=89&cate=(FS-02)%20Mathematical%20Research%20and%20Reasoning%20in%20the%20Age%20of%20Intelligent%20Machines&etitle=&key_word=&au_name=&au_ename=&au_office=&au_eoffice=&mode=search&section=Focus%20Session'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
