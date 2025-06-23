@@ -13,7 +13,7 @@ address:
   postcode: '02841'
   country: South Korea
 
-summary: 'Can layerwise linear models simplify complex neural network dynamics speed up deep learning research?'
+summary: 'Can layerwise linear models simplify complex neural network dynamics and speed up deep learning research?'
 abstract: |
   In physics, complex systems are often simplified into minimal, solvable models that retain only the core principles. In machine learning, layerwise linear models (e.g., linear neural networks) act as simplified representations of neural network dynamics. These models follow the dynamical feedback principle, which describes how layers mutually govern and amplify each other's evolution. This principle extends beyond the simplified models, successfully explaining a wide range of dynamical phenomena in deep neural networks, including neural collapse, emergence, lazy and rich regimes, and grokking. In this position paper, we call for the use of layerwise linear models retaining the core principles of neural dynamical phenomena to accelerate the science of deep learning.
 
