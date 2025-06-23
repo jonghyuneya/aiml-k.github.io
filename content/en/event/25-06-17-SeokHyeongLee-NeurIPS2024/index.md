@@ -36,10 +36,10 @@ image:
 #   focal_point: Right
 
 url_code: ''
-url_pdf: 'https://proceedings.neurips.cc/paper_files/paper/2024/hash/45f7ad60c01f17711ccd8ac2f2fb77e3-Abstract-Conference.html'
+url_pdf: ''
 url_slides: ''
 url_video: ''
-url_poster: 'https://neurips.cc/media/PosterPDFs/NeurIPS%202024/94372.png?t=1731019890.6678758'
+url_poster: ''
 
 links:
 - name: NeurIPS
