@@ -6,7 +6,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: '2023-07-03'
+date: '2025-07-03'
 publishDate: '2025-05-30T00:00:00Z'
 publication_types:
 - paper-conference
@@ -24,10 +24,10 @@ links:
 
 tags: ['AgentAI','Chatbot','Zulip']
 
-# image:
-#   caption: 'SuHyun with his poster in KCC 2024 (Jeju, South Korea)'
-#   focal_point: ''
-#   preview_only: false
+image:
+  caption: 'Schematic Diagram of the Zulip Agent System'
+  focal_point: ''
+  preview_only: false
 
 ---
 
