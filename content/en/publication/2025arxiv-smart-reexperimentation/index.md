@@ -1,5 +1,5 @@
 ---
-title: "CLIP-KOA: Enhancing Knee Osteoarthritis Diagnosis with Multi-Modal Learning and Symmetry-Aware Loss Functions"
+title: "Re-experiment Smart: a Novel Method to Enhance Data-driven Prediction of Mechanical Properties of Epoxy Polymers"
 authors:
 - wanshancui
 - yejinjeong
