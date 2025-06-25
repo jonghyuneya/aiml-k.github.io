@@ -28,9 +28,8 @@ tags:
 - Uncertainty Quantification
 
 links:
-
-# - name: PDF
-#   url: https://arxiv.org/pdf/2506.01994
+- name: PDF
+  url: papers/ICML2025_HiLD_Cha_Lee.pdf
 # - name: Github
 #   url: TODO
 # - name: arXiv
