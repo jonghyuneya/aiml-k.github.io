@@ -29,8 +29,10 @@ tags:
 
 links:
 
-# - name: PDF
-#   url: https://arxiv.org/pdf/2506.01994
+- name: PDF
+  url: https://openreview.net/pdf?id=v0l6QS3Umt
+- name: openreview
+  url: https://openreview.net/forum?id=v0l6QS3Umt
 # - name: Github
 #   url: TODO
 # - name: arXiv
