@@ -2,10 +2,10 @@
 title: "Data-Driven Dimensional Synthesis of Diverse Planar Four-bar Function Generation Mechanisms via Direct Parameterization"
 authors:
 - jaeheunjung
-- woonryongkim
+- WoonRyong Kim
 - jeongunha
 - admin
-- jaekyungshim
+- Jae Kyung Shim
 date: "2025-07-14T00:00:00Z"
 # doi: ""
 
