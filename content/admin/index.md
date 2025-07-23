@@ -51,7 +51,7 @@ highlight_name: false
 user_groups:
   - Undergraduate Students
 ---
-
+![sample](김종현.jpg)
 I am Jonghyun Kim, an undergraduate student in the Department of Mathematics at Korea University.
 
 My academic interests lie in stochastic partial differential equations (SPDEs) and natural language processing (NLP). I am particularly interested in the mathematical foundations of language models and stochastic analysis techniques for modeling uncertainty in natural systems.
